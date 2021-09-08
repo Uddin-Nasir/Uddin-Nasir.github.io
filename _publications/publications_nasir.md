@@ -1,5 +1,5 @@
 ---
-#title: "Paper Title Number 2"
+title: "Publications"
 collection: publications
 permalink: /publication/publications_nasir
 ---
