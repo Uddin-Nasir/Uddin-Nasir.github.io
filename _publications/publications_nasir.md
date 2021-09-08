@@ -1,5 +1,5 @@
 ---
-title: 'publications'
+title: ''
 ---
 ## Peer reviewed journal articles
 J1.		Uddin MN, Tivarus MT, Heather A, Little A, Schifitto G, Lande MB Magnetic Resonance Imaging In Childhood Primary Hypertension - Toward Understanding  Pathogenesis And Effects Of Treatment On Target Organ Damage To The Brain, Hypertension 77(3), 751-758 (2021).  
