@@ -2,12 +2,12 @@
 title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
+#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+#date: 2010-10-01
+#venue: 'Journal 1'
+#paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+
 ## Peer reviewed journal articles
 J1.		Uddin MN, Tivarus MT, Heather A, Little A, Schifitto G, Lande MB Magnetic Resonance Imaging In Childhood Primary Hypertension - Toward Understanding  Pathogenesis And Effects Of Treatment On Target Organ Damage To The Brain, Hypertension 77(3), 751-758 (2021).  
 
@@ -133,3 +133,4 @@ C37.		Morrow MR and Uddin MN, Phase behavior of bicellar lipid mixtures using de
 C38.		Uddin MN, Morrow MR, Effect of pressure on chain order and orientation in DMPC/DHPC bicelles, Canadian Association of Physicists Congress, June 7-10, Moncton, NB, 2009
 
 C39.		Rahman MO, Uddin MN, Rahman MM, Muniruzzaman M, High precision (+, -, -, +) Monolithic Monochromators with Synchrotron Radiation, Bangladesh Physical Society Conference, Feb 11-12, 2005
+---
