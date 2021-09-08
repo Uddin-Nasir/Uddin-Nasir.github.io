@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Peer reviewed journal articles
-J1.		Uddin MN, Tivarus MT, Heather A, Little A, Schifitto G, Lande MB Magnetic Resonance Imaging In Childhood Primary Hypertension - Toward Understanding  Pathogenesis And Effects Of Treatment On Target Organ Damage To The Brain, Hypertension 77(3), 751-758 (2021).  
+J1.		<strong>Uddin MN</strong>, Tivarus MT, Heather A, Little A, Schifitto G, Lande MB Magnetic Resonance Imaging In Childhood Primary Hypertension - Toward Understanding  Pathogenesis And Effects Of Treatment On Target Organ Damage To The Brain, Hypertension 77(3), 751-758 (2021).  
 
 J2.		Uddin MN*, Faiyaz A, Wang L, Zhuang Y, Murray K, Descoteaux M, Tivarus M, Weber M, Zhong J, Qiu X, and Schifitto G, A longitudinal analysis of brain extracellular free water in HIV infected individuals. Scientific Reports, 11(1), 1-12 (2021).  *corresponding author
 
