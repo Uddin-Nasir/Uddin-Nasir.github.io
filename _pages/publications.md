@@ -17,32 +17,32 @@ J4.		Murray KD, <strong>Uddin MN</strong>, Tivarus ME, Sahin B, Wang HZ, Singh M
 
 J5.		Finkelstein A, Faiyaz A, Weber MT, Qiu X, <strong>Uddin MN*</strong>, Zhong J, Schifitto G. <a href="https://www.biorxiv.org/content/10.1101/2021.05.06.443022v2.full.pdf" Fixel-Based Analysis and Free Water Corrected DTI Evaluation of HIV Associated Neurocognitive Disorders.</a> <i>Frontiers in Neurology</i> (2021) *corresponding author 
 
-J6.		Marrie RA, Patel R, Figley CR, Kornelsen J, Bolton JM, Graff LA, Mazerolle EL, Helmick C, O'Grady C, <strong>Uddin MN</strong>, Marriott JJ, Bernstein CN, Fisk JD for the C-COMS Study Group, <a href="" target="_blank"> Higher Framingham Risk Scores are associated with greater loss of brain volume over time in multiple sclerosis.</a> <i>Multiple Sclerosis and Related Disorders</i> 103088 (2021).
+J6.		Marrie RA, Patel R, Figley CR, Kornelsen J, Bolton JM, Graff LA, Mazerolle EL, Helmick C, O'Grady C, <strong>Uddin MN</strong>, Marriott JJ, Bernstein CN, Fisk JD for the C-COMS Study Group, <a href="https://pubmed.ncbi.nlm.nih.gov/34186319/" target="_blank"> Higher Framingham Risk Scores are associated with greater loss of brain volume over time in multiple sclerosis.</a> <i>Multiple Sclerosis and Related Disorders</i> 103088 (2021).
 
-J7.		Murray K, Singh MV, Zhuang Y, <strong>Uddin MN</strong>, Qiu X, Weber M, Tivarus ME, Wang H, Sahin B, Zhong J, Maggirwar SB and Schifitto G, <a href="" target="_blank">Pathomechanisms of HIV-Associated Cerebral Small Vessel Disease: A Comprehensive Clinical and Neuroimaging Protocol and Analysis Pipeline</a> <i>Frontiers in Neurology</i>, 11 (2020).
-J8.		Pirzada S*, Uddin MN*, and Figley CR. <a href="" target="_blank">Spatial normalization of multiple sclerosis brain MRI data depends on analysis method and software package.</a> <i>Magnetic Resonance Imaging Journal</i>, 86:83-94 (2020) *co-first author, equal contribution
+J7.		Murray K, Singh MV, Zhuang Y, <strong>Uddin MN</strong>, Qiu X, Weber M, Tivarus ME, Wang H, Sahin B, Zhong J, Maggirwar SB and Schifitto G, <a href="https://pubmed.ncbi.nlm.nih.gov/33384655/" target="_blank">Pathomechanisms of HIV-Associated Cerebral Small Vessel Disease: A Comprehensive Clinical and Neuroimaging Protocol and Analysis Pipeline</a> <i>Frontiers in Neurology</i>, 11 (2020).
+J8.		Pirzada S*, Uddin MN*, and Figley CR. <a href="https://pubmed.ncbi.nlm.nih.gov/32007558/" target="_blank">Spatial normalization of multiple sclerosis brain MRI data depends on analysis method and software package.</a> <i>Magnetic Resonance Imaging Journal</i>, 86:83-94 (2020) *co-first author, equal contribution
 
-J9.		Puig J, Biarnes C, Pedraza S, …. , <strong>Uddin MN</strong>,… Garre-Olmo, J, <a href="" target="_blank">The Aging Imageomics Study: Rationale, design and baseline characteristics of the study population.</a> <i>Mechanism of Ageing and Development</i>, 111257 (2020).
+J9.		Puig J, Biarnes C, Pedraza S, …. , <strong>Uddin MN</strong>,… Garre-Olmo, J, <a href="https://www.sciencedirect.com/science/article/pii/S0047637420300531" target="_blank">The Aging Imageomics Study: Rationale, design and baseline characteristics of the study population.</a> <i>Mechanism of Ageing and Development</i>, 111257 (2020).
 
-J10.		<strong>Uddin MN*</strong>, Figley TD, Solar KG, Shatil AS, Figley CR. <a href="" target="_blank">Comparisons between multi-component myelin water fraction, T1w/T2w ratio, and diffusion tensor imaging measures in healthy human brain structures.</a> <i> Scientific Reports</i>, 9(1):2500 (2019) * corresponding author
+J10.		<strong>Uddin MN*</strong>, Figley TD, Solar KG, Shatil AS, Figley CR. <a href="https://www.nature.com/articles/s41598-019-39199-x" target="_blank">Comparisons between multi-component myelin water fraction, T1w/T2w ratio, and diffusion tensor imaging measures in healthy human brain structures.</a> <i> Scientific Reports</i>, 9(1):2500 (2019) * corresponding author
 
-J11.		<strong>Uddin MN</strong>, Figley TD, and Figley CR, <a href="" target="_blank">Effect of echo time and T2-weighting on T1-weighted/T2-weighted MRI ratio mapping.</a> <i> Magnetic Resonance Imaging Journal</i>, 51:35-43 (2018).
+J11.		<strong>Uddin MN</strong>, Figley TD, and Figley CR, <a href="https://www.sciencedirect.com/science/article/pii/S0730725X18300638" target="_blank">Effect of echo time and T2-weighting on T1-weighted/T2-weighted MRI ratio mapping.</a> <i> Magnetic Resonance Imaging Journal</i>, 51:35-43 (2018).
 
-J12.		<strong>Uddin MN</strong>, Figley TD, Marrie RA, Figley CR, <a href="" target="_blank">Can T1w/T2w ratio be used as a myelin-specific measure in subcortical structures? Comparisons between FSE-based T1w/T2w ratios, GRASE-based T1w/T2w ratios, and multi-echo GRASE-based myelin water fractions.</a> <i>NMR in Biomedicine</i>, 31:3 (2018).
+J12.		<strong>Uddin MN</strong>, Figley TD, Marrie RA, Figley CR, <a href="https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.3868" target="_blank">Can T1w/T2w ratio be used as a myelin-specific measure in subcortical structures? Comparisons between FSE-based T1w/T2w ratios, GRASE-based T1w/T2w ratios, and multi-echo GRASE-based myelin water fractions.</a> <i>NMR in Biomedicine</i>, 31:3 (2018).
 
-J13.		Shatil AS, <strong>Uddin MN</strong>, Matsuda KM, and Figley CR. <a href="" target="_blank">Time-course of quantitative white matter MRI changes during formalin fixation in a whole postmortem human brain: Effects on T1-relaxation, T2-relaxation, fractional anisotropy, mean diffusivity, and myelin water fraction.</a> <i>Frontiers in Medicine</i>, 5: 31 (2018).  
+J13.		Shatil AS, <strong>Uddin MN</strong>, Matsuda KM, and Figley CR. <a href="https://www.frontiersin.org/articles/10.3389/fmed.2018.00031/full" target="_blank">Quantitative Ex Vivo MRI Changes due to Progressive Formalin Fixation in Whole Human Brain Specimens: Longitudinal Characterization of Diffusion, Relaxometry, and Myelin Water Fraction Measurements at 3T.</a> <i>Frontiers in Medicine</i>, 5: 31 (2018).  
 
-J14.		<strong>Uddin MN</strong>, McPhee KC, Blevins G and Wilman AH, <a href="" target="_blank"><a href="" target="_blank">Recovery of accurate T2 from historical 1.5 tesla proton density and T2-weighted images: Application to 7-year T2 changes in multiple sclerosis brain.</a> <i>Magnetic Resonance Imaging Journal</i>, 37:21-26 (2017). 
+J14.		<strong>Uddin MN</strong>, McPhee KC, Blevins G and Wilman AH, <a href="https://pubmed.ncbi.nlm.nih.gov/27856398/" target="_blank">Recovery of accurate T2 from historical 1.5 tesla proton density and T2-weighted images: Application to 7-year T2 changes in multiple sclerosis brain.</a> <i>Magnetic Resonance Imaging Journal</i>, 37:21-26 (2017). 
 
-J15.		<strong>Uddin MN</strong>, Lebel RM, Seres P, Blevins G and Wilman AH, <a href="" target="_blank">Spin echo transverse relaxation and atrophy in multiple sclerosis deep grey matter: A 2-year longitudinal study.</a> <i>Multiple Sclerosis Journal</i>, 22(9):1133-43 (2016).
+J15.		<strong>Uddin MN</strong>, Lebel RM, Seres P, Blevins G and Wilman AH, <a href="https://pubmed.ncbi.nlm.nih.gov/26503237/" target="_blank">Spin echo transverse relaxation and atrophy in multiple sclerosis deep grey matter: A 2-year longitudinal study.</a> <i>Multiple Sclerosis Journal</i>, 22(9):1133-43 (2016).
 
-J16.		<strong>Uddin MN</strong>, Lebel RM and Wilman AH, <a href="" target="_blank">Value of transverse relaxometry difference methods for iron in human brain.</a> <i> Magnetic Resonance Imaging Journal</i>, 34(1):51-9 (2016).
+J16.		<strong>Uddin MN</strong>, Lebel RM and Wilman AH, <a href="https://pubmed.ncbi.nlm.nih.gov/26435459/" target="_blank">Value of transverse relaxometry difference methods for iron in human brain.</a> <i> Magnetic Resonance Imaging Journal</i>, 34(1):51-9 (2016).
 
-J17.		<strong>Uddin MN</strong>, Lebel RM and Wilman AH, <a href="" target="_blank">Transverse Relaxometry with Reduced Echo Train Lengths via Stimulated Echo Compensation.</a> <i>Magnetic Resonance in Medicine</i> 70:1340–1346 (2013).
+J17.		<strong>Uddin MN</strong>, Lebel RM and Wilman AH, <a href="https://pubmed.ncbi.nlm.nih.gov/23325543/" target="_blank">Transverse Relaxometry with Reduced Echo Train Lengths via Stimulated Echo Compensation.</a> <i>Magnetic Resonance in Medicine</i> 70:1340–1346 (2013).
 
-J18.		<strong>Uddin MN</strong> and Morrow MR, <a href="" target="_blank">Bicellar mixture phase behavior examined by variable-pressure deuterium NMR and, ambient pressure DSC.</a> <i>Langmuir</i>, 26(14):12104-11 (2010).
+J18.		<strong>Uddin MN</strong> and Morrow MR, <a href="https://pubmed.ncbi.nlm.nih.gov/20536154/" target="_blank">Bicellar mixture phase behavior examined by variable-pressure deuterium NMR and, ambient pressure DSC.</a> <i>Langmuir</i>, 26(14):12104-11 (2010).
 
-J19.		Rahman MM, Sheak MS, Pervin S, <strong>Uddin MN</strong>, Ahmed F, Hossain MA, Rahaman M, Bashar MS, Hossain T, Akhter S. <a href="" target="_blank">Composition, temperature and frequency dependent magnetic, dielectric and electrical properties of magnesium-zinc ferrites.</a> <i>Journal of Bangladesh Academy of Sciences</i>, (2012);36(2):199-212.
+J19.		Rahman MM, Sheak MS, Pervin S, <strong>Uddin MN</strong>, Ahmed F, Hossain MA, Rahaman M, Bashar MS, Hossain T, Akhter S. <a href="https://researchrepository.murdoch.edu.au/id/eprint/56357/1/Composition%2C%20temperature%20and%20frequency%20dependent%20magnetic%2C%20dielectric%20and%20electrical%20properties%20of%20magnesium-zinc%20ferrites.pdf" target="_blank">Composition, temperature and frequency dependent magnetic, dielectric and electrical properties of magnesium-zinc ferrites.</a> <i>Journal of Bangladesh Academy of Sciences</i>, (2012);36(2):199-212.
 
 J20.		Rahman MO, <strong>Uddin MN</strong>, Rahman MM, Muniruzzaman M, High precision (+, -, -, +) monolithic monochromators with synchrotron radiation,’ <i>Bangladesh journal of physics</i>, vol. 2 (1), p. 73-79, (2006).
 
@@ -51,7 +51,7 @@ J20.		Rahman MO, <strong>Uddin MN</strong>, Rahman MM, Muniruzzaman M, High prec
 ## Manuscripts under review
 J21.		Weber M, Alan F, <strong>Uddin MN</strong>, Qiu X, and Schifitto G, Longitudinal Effects of Combination Antiretroviral Therapy on Cognition and Neuroimaging Biomarkers in HIV Infected Treatment-Naïve Individuals, <i>Neurology</i> (provisionally accepted). 
 
-J22.		Murray K, Tivarus, MT, Schifitto G, <strong>Uddin MN</strong>, Zhong J, Iron MRI Markers in the Presence of White Matter Lesions in Human Brain (Magnetic Resonance in Medicine)
+J22.		Murray K, Tivarus, MT, Schifitto G, <strong>Uddin MN</strong>, Zhong J, <a href="https://www.biorxiv.org/content/10.1101/2021.03.22.436449v1.full.pdf" target="_blank">Iron MRI Markers in the Presence of White Matter Lesions in Human Brain.</a> <i> (Magnetic Resonance in Medicine)</i>
 
 
 ## Peer Reviewed Conference Proceedings
