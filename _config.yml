@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Md Nasir Uddin, PhD"
+title                    : "Homepage of Nasir Uddin"
 title_separator          : "-"
-name                     : &name "Md Nasir Uddin"
+name                     : &name "Md Nasir Uddin, PhD"
 description              : &description "personal description"
 url                      : https://uddin-nasir.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Md Nasir Uddin, PhD"
   avatar           : "profile.png"
-  bio              : "MRI Physicist <br> <br> Research Assistant Professor <a style='color: black;' href='https://www.urmc.rochester.edu/neurology.aspx'>Department of Neurology</a>  <a style='color: black;' href='https://www.rochester.edu/'>University of Rochester</a>"
+  bio              : "Research Assistant Professor <a style='color: black;' href='https://www.urmc.rochester.edu/neurology.aspx'>Department of Neurology</a>  <a style='color: black;' href='https://www.rochester.edu/'>University of Rochester</a>"
+  email            : "nasir_uddin@urmc.rochester.edu"
   location         : "Rochester, New York"
-  employer         : "University of Rochester"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=aS3Vc7QAAAAJ&hl=en"
   email            : "nasir_uddin@urmc.rochester.edu"
