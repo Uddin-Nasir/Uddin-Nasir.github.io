@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Md Nasir Uddin, PhD"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Md Nasir Uddin"
 description              : &description "personal description"
