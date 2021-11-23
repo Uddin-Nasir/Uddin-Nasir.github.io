@@ -5,17 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 ## Peer reviewed journal articles
+
 J1.		<strong>Uddin MN</strong>, Tivarus MT, Heather A, Little A, Schifitto G, Lande MB. <a href="https://pubmed.ncbi.nlm.nih.gov/33566685/" target="_blank">Magnetic Resonance Imaging In Childhood Primary Hypertension - Toward Understanding  Pathogenesis And Effects Of Treatment On Target Organ Damage To The Brain.</a> <i>Hypertension</i> 77(3), 751-758 (2021).  
 
 J2.		<strong>Uddin MN*</strong>, Faiyaz A, Wang L, Zhuang Y, Murray K, Descoteaux M, Tivarus M, Weber M, Zhong J, Qiu X, and Schifitto G. <a href="https://www.nature.com/articles/s41598-021-87801-y" target="_blank">A longitudinal analysis of brain extracellular free water in HIV infected individuals.</a> <i>Scientific Reports</i>, 11(1), 1-12 (2021).  *corresponding author
 
-J3.		Faiyaz A, Doyley M, Schifitto G, Zhong J, <strong>Uddin MN*</strong>, <a href="https://arxiv.org/pdf/2102.02772.pdf" target="_blank">Single-Shell NODDI reconstruction using deep learner estimated isotropic volume fraction</a>, <i>NMR in Biomedicine</i> (2021) *corresponding author
+J3.		Faiyaz A, Doyley M, Schifitto G, Zhong J, <strong>Uddin MN*</strong>, <a href="https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.4628" target="_blank">Single-Shell NODDI reconstruction using deep learner estimated isotropic volume fraction</a>, <i>NMR in Biomedicine</i> (2021) *corresponding author
 
 J4.		Murray KD, <strong>Uddin MN</strong>, Tivarus ME, Sahin B, Wang HZ, Singh MV, Qiu X, Wang L, Spincemaille P, Wang Y, Maggirwar SB, Zhong J, and Schifitto G, <a href="https://www.sciencedirect.com/science/article/pii/S2213158221002308" target="_blank">Increased Risk for Cerebral Small Vessel Disease is Associated with Quantitative Susceptibility Mapping in HIV Infected and Uninfected Individuals.</a> <i>NeuroImage: Clinical</i>, vol 32, 102786 (2021).
 
-J5.		Finkelstein A, Faiyaz A, Weber MT, Qiu X, <strong>Uddin MN*</strong>, Zhong J, Schifitto G. <a href="https://www.biorxiv.org/content/10.1101/2021.05.06.443022v2.full.pdf" target="_blank">Fixel-Based Analysis and Free Water Corrected DTI Evaluation of HIV Associated Neurocognitive Disorders.</a> <i>Frontiers in Neurology</i> (2021) *corresponding author 
+J5.		Finkelstein A, Faiyaz A, Weber MT, Qiu X, <strong>Uddin MN*</strong>, Zhong J, Schifitto G. <a href="https://www.frontiersin.org/articles/10.3389/fneur.2021.725059/full" target="_blank">Fixel-Based Analysis and Free Water Corrected DTI Evaluation of HIV Associated Neurocognitive Disorders.</a> <i>Frontiers in Neurology</i> (2021) *corresponding author 
 
 J6.		Marrie RA, Patel R, Figley CR, Kornelsen J, Bolton JM, Graff LA, Mazerolle EL, Helmick C, O'Grady C, <strong>Uddin MN</strong>, Marriott JJ, Bernstein CN, Fisk JD for the C-COMS Study Group, <a href="https://pubmed.ncbi.nlm.nih.gov/34186319/" target="_blank"> Higher Framingham Risk Scores are associated with greater loss of brain volume over time in multiple sclerosis.</a> <i>Multiple Sclerosis and Related Disorders</i> 103088 (2021).
 
@@ -52,12 +52,15 @@ J20.		Rahman MO, <strong>Uddin MN</strong>, Rahman MM, Muniruzzaman M, High prec
 ## Manuscripts under review
 J21.		Weber M, Alan F, <strong>Uddin MN</strong>, Qiu X, and Schifitto G, Longitudinal Effects of Combination Antiretroviral Therapy on Cognition and Neuroimaging Biomarkers in HIV Infected Treatment-Naïve Individuals, <i>Neurology</i> (provisionally accepted). 
 
-J22.		Murray K, Tivarus, MT, Schifitto G, <strong>Uddin MN</strong>, Zhong J, <a href="https://www.biorxiv.org/content/10.1101/2021.03.22.436449v1.full.pdf" target="_blank">Iron MRI Markers in the Presence of White Matter Lesions in Human Brain.</a> <i> (Magnetic Resonance in Medicine)</i>
+J22.		Murray K, Tivarus MT, Schifitto G, <strong>Uddin MN</strong>, Zhong J, <a href="https://www.biorxiv.org/content/10.1101/2021.03.22.436449v1.full.pdf" target="_blank">Iron MRI Markers in the Presence of White Matter Lesions in Human Brain.</a> <i> (Magnetic Resonance in Medicine)</i>
+
+J23. Figley CR, <strong>Uddin MN</strong>, Wong K, Kornelsen J, Puig J, Figley TD, Potential pitfalls of using fractional anisotropy, axial diffusivity, and radial diffusivity as biomarkers of cerebral white matter integrity, <i>Frontiers in Neuroscience</i>
 
 
 ## Peer Reviewed Conference Proceedings
 
 C1.		<strong>Uddin MN</strong>, Faiyaz A, Schifitto G, Evaluation of White Matter Microstructure in an HIV Population at Risk of Cerebral Small Vessel Disease using Microscopic Fractional Anisotropy, Proc. Intl. Soc. Mag. Reson. Med. 29 (2021)
+
 C2.		Faiyaz A, Doyley MM, Schifitto G, Zhong J, <strong>Uddin MN</strong>, Deep Learner estimated isotropic volume fraction enables reliable single-shell NODDI reconstruction, Proc. Intl. Soc. Mag. Reson. Med. 29 (2021)
 
 C3.		Faiyaz A, Kabir IE, Doyley MM, Sack I, <strong>Uddin MN</strong>, Schifitto G, Preliminary MR elastography investigation on HIV+ cohort with cerebral small vessel disease, Proc. Intl. Soc. Mag. Reson. Med. 29 (2021)
