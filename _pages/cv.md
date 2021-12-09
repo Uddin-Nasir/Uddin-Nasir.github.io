@@ -13,26 +13,4 @@ Education
 
 * Ph.D in Biomedical Engineering, University of Alberta, 2015
 
-Work experience
-======
-
-  
-Skills
-======
-
-
-Publications
-======
-
-  
-Talks
-======
-
-  
-Teaching
-======
-
-  
-Service and leadership
-======
 
