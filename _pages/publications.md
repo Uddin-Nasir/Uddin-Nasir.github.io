@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer reviewed journal articles
 ## 2021
-Figley CR, <strong>Uddin MN</strong>, Wong K, Kornelsen J, Puig J, Figley TD, Potential pitfalls of using fractional anisotropy, axial diffusivity, and radial diffusivity as biomarkers of cerebral white matter integrity, <i>Frontiers in Neuroscience</i> 15:799576 (2021).
+Figley CR, <strong>Uddin MN</strong>, Wong K, Kornelsen J, Puig J, Figley TD, <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.799576/full" target="_blank">Potential pitfalls of using fractional anisotropy, axial diffusivity, and radial diffusivity as biomarkers of cerebral white matter integrity.</a> <i>Frontiers in Neuroscience</i> 15:799576 (2021).
 
 <strong>Uddin MN</strong>, Tivarus MT, Heather A, Little A, Schifitto G, Lande MB. <a href="https://pubmed.ncbi.nlm.nih.gov/33566685/" target="_blank">Magnetic Resonance Imaging In Childhood Primary Hypertension - Toward Understanding  Pathogenesis And Effects Of Treatment On Target Organ Damage To The Brain.</a> <i>Hypertension</i> 77(3), 751-758 (2021).  
 
