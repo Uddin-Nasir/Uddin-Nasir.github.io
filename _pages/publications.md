@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Peer reviewed journal articles
-(You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&user=aS3Vc7QAAAAJ&view_op=list_works&sortby=pubdate">my Google Scholar profile</a>.</u>)
+
 ## 2021
 Figley CR, <strong>Uddin MN</strong>, Wong K, Kornelsen J, Puig J, Figley TD, <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.799576/full" target="_blank">Potential pitfalls of using fractional anisotropy, axial diffusivity, and radial diffusivity as biomarkers of cerebral white matter integrity.</a> <i>Frontiers in Neuroscience</i> 15:799576 (2021).
 
