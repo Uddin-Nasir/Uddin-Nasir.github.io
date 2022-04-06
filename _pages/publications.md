@@ -8,9 +8,10 @@ author_profile: true
 
 ## Peer reviewed journal articles
 
-## 2021
-Figley CR, <strong>Uddin MN</strong>, Wong K, Kornelsen J, Puig J, Figley TD, <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.799576/full" target="_blank">Potential pitfalls of using fractional anisotropy, axial diffusivity, and radial diffusivity as biomarkers of cerebral white matter integrity.</a> <i>Frontiers in Neuroscience</i> 15:799576 (2021).
+## 2022
+Figley CR, <strong>Uddin MN</strong>, Wong K, Kornelsen J, Puig J, Figley TD, <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.799576/full" target="_blank">Potential pitfalls of using fractional anisotropy, axial diffusivity, and radial diffusivity as biomarkers of cerebral white matter integrity.</a> <i>Frontiers in Neuroscience</i> 15:799576 (2022).
 
+## 2021
 <strong>Uddin MN</strong>, Tivarus MT, Heather A, Little A, Schifitto G, Lande MB. <a href="https://pubmed.ncbi.nlm.nih.gov/33566685/" target="_blank">Magnetic Resonance Imaging In Childhood Primary Hypertension - Toward Understanding  Pathogenesis And Effects Of Treatment On Target Organ Damage To The Brain.</a> <i>Hypertension</i> 77(3), 751-758 (2021).  
 
 <strong>Uddin MN*</strong>, Faiyaz A, Wang L, Zhuang Y, Murray K, Descoteaux M, Tivarus M, Weber M, Zhong J, Qiu X, and Schifitto G. <a href="https://www.nature.com/articles/s41598-021-87801-y" target="_blank">A longitudinal analysis of brain extracellular free water in HIV infected individuals.</a> <i>Scientific Reports</i>, 11(1), 1-12 (2021).  *corresponding author
@@ -58,11 +59,16 @@ Rahman MM, Sheak MS, Pervin S, <strong>Uddin MN</strong>, Ahmed F, Hossain MA, R
 Rahman MO, <strong>Uddin MN</strong>, Rahman MM, Muniruzzaman M, High precision (+, -, -, +) monolithic monochromators with synchrotron radiation,’ <i>Bangladesh journal of physics</i>, vol. 2 (1), p. 73-79, (2006).
 
 
-
 ## Manuscripts under review
-Weber M, Alan F, <strong>Uddin MN</strong>, Qiu X, and Schifitto G, Longitudinal Effects of Combination Antiretroviral Therapy on Cognition and Neuroimaging Biomarkers in HIV Infected Treatment-Naïve Individuals, <i>Neurology</i> (provisionally accepted). 
+Weber M, Alan F, <strong>Uddin MN</strong>, Qiu X, and Schifitto G, Longitudinal Effects of Combination Antiretroviral Therapy on Cognition and Neuroimaging Biomarkers in HIV Infected Treatment-Naïve Individuals, <i>Neurology</i>
 
 Murray K, Tivarus MT, Schifitto G, <strong>Uddin MN</strong>, Zhong J, <a href="https://www.biorxiv.org/content/10.1101/2021.03.22.436449v1.full.pdf" target="_blank">Iron MRI Markers in the Presence of White Matter Lesions in Human Brain.</a> <i> (Magnetic Resonance in Medicine)</i>
+
+Patel R, Marrie RA, Bernstein CN, MD, Bolton JM, Graff LA, Marriott JJ, Figley CR, Kornelsen J, Mazerolle EL, <strong>Uddin MN</strong>, Fisk JD for the Comorbidity and Cognition in Multiple Sclerosis (CCOMS) Study Group, Vascular comorbidity is associated with decreased cognitive functioning in inflammatory bowel disease, <i>American Journal of Gastroenterology</i>
+
+<strong>Uddin MN</strong>, Figley TD, Kornelsen J, Mazerolle EL, Helmick CA, O’Grady CB, Pirzada S, Patel R, Carter S, Wong K, Essig MR, Puig J, Fisk JD, Marrie RA, and Figley CR, for the CCOMS Study Group, The comorbidity and cognition in multiple sclerosis (CCOMS) neuroimaging protocol: study rationale, MRI acquisition, and minimal image processing pipelines, <i>Frontiers in Neuroimaging</i>
+
+Marrie RA, Patel R, Figley CR, Kornelsen J, Bolton J, Graff LA, Mazerolle EL, Helmick C, O’Grady C, <strong>Uddin MN</strong>, Marriott JJ, Bernstein CN, and Fisk JD for the Comorbidity and Cognition in Multiple Sclerosis (CCOMS) Study Group, Effects of vascular comorbidity on cognition in multiple sclerosis are partially mediated by changes in brain structure, <i>Frontiers in Neurology</i>
 
 
 ## Peer Reviewed Conference Proceedings
