@@ -41,15 +41,13 @@ Puig J, Biarnes C, Pedraza S, …. , <strong>Uddin MN</strong>,… Garre-Olmo, J
 
 Shatil AS, <strong>Uddin MN</strong>, Matsuda KM, and Figley CR. <a href="https://www.frontiersin.org/articles/10.3389/fmed.2018.00031/full" target="_blank">Quantitative Ex Vivo MRI Changes due to Progressive Formalin Fixation in Whole Human Brain Specimens: Longitudinal Characterization of Diffusion, Relaxometry, and Myelin Water Fraction Measurements at 3T.</a> <i>Frontiers in Medicine</i>, 5: 31 (2018).  
 
-## 2017
+## 2017 and earlier
 <strong>Uddin MN</strong>, McPhee KC, Blevins G and Wilman AH, <a href="https://pubmed.ncbi.nlm.nih.gov/27856398/" target="_blank">Recovery of accurate T2 from historical 1.5 tesla proton density and T2-weighted images: Application to 7-year T2 changes in multiple sclerosis brain.</a> <i>Magnetic Resonance Imaging Journal</i>, 37:21-26 (2017). 
 
-## 2016
 <strong>Uddin MN</strong>, Lebel RM, Seres P, Blevins G and Wilman AH, <a href="https://pubmed.ncbi.nlm.nih.gov/26503237/" target="_blank">Spin echo transverse relaxation and atrophy in multiple sclerosis deep grey matter: A 2-year longitudinal study.</a> <i>Multiple Sclerosis Journal</i>, 22(9):1133-43 (2016).
 
 <strong>Uddin MN</strong>, Lebel RM and Wilman AH, <a href="https://pubmed.ncbi.nlm.nih.gov/26435459/" target="_blank">Value of transverse relaxometry difference methods for iron in human brain.</a> <i> Magnetic Resonance Imaging Journal</i>, 34(1):51-9 (2016).
 
-## 2013 and earlier
 <strong>Uddin MN</strong>, Lebel RM and Wilman AH, <a href="https://pubmed.ncbi.nlm.nih.gov/23325543/" target="_blank">Transverse Relaxometry with Reduced Echo Train Lengths via Stimulated Echo Compensation.</a> <i>Magnetic Resonance in Medicine</i> 70:1340–1346 (2013).
 
 <strong>Uddin MN</strong> and Morrow MR, <a href="https://pubmed.ncbi.nlm.nih.gov/20536154/" target="_blank">Bicellar mixture phase behavior examined by variable-pressure deuterium NMR and, ambient pressure DSC.</a> <i>Langmuir</i>, 26(14):12104-11 (2010).
@@ -114,7 +112,7 @@ Pirzada S, <strong>Uddin MN</strong>, Figley TD, Figley CR, Differences between 
 
 Pirzada S, <strong>Uddin MN</strong>, Figley TD, Figley CR, Comparing spatial normalization methods using brain MRI data in the presence of MS lesions, Organization for Human Brain Mapping, (OHBM) (2018)
 
-## 2018
+## 2017
 <strong>Uddin MN</strong>, Figley TD, Marie RA, Figley CR, Comparison of fast spin echo (FSE) and gradient and spin echo (GRASE) sequence for T1w/T2w MRI ratio mapping, CMBES Proceedings, Volume 40, (2017)
 
 <strong>Uddin MN</strong>, Courtney SM, and Figley CR, Direct comparisons between quantitative magnetic resonance imaging measures in the human brain, Organization for Human Brain Mapping, (OHBM): 3484, (2017)
