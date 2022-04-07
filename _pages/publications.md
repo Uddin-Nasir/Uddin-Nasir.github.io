@@ -60,7 +60,7 @@ Rahman MO, <strong>Uddin MN</strong>, Rahman MM, Muniruzzaman M, High precision 
 ## Manuscripts under review
 Weber M, Alan F, <strong>Uddin MN</strong>, Qiu X, and Schifitto G, Longitudinal Effects of Combination Antiretroviral Therapy on Cognition and Neuroimaging Biomarkers in HIV Infected Treatment-Naïve Individuals, <i>Neurology</i>
 
-Murray K, Tivarus MT, Schifitto G, <strong>Uddin MN</strong>, Zhong J, <a href="https://www.biorxiv.org/content/10.1101/2021.03.22.436449v1.full.pdf" target="_blank">Iron MRI Markers in the Presence of White Matter Lesions in Human Brain.</a> <i> (Magnetic Resonance in Medicine)</i>
+Murray K, Tivarus MT, Schifitto G, <strong>Uddin MN</strong>, Zhong J, <a href="https://www.biorxiv.org/content/10.1101/2021.03.22.436449v1.full.pdf" target="_blank">Iron MRI Markers in the Presence of White Matter Lesions in Human Brain.</a> <i>Magnetic Resonance in Medicine</i>
 
 Patel R, Marrie RA, Bernstein CN, MD, Bolton JM, Graff LA, Marriott JJ, Figley CR, Kornelsen J, Mazerolle EL, <strong>Uddin MN</strong>, Fisk JD for the Comorbidity and Cognition in Multiple Sclerosis (CCOMS) Study Group, Vascular comorbidity is associated with decreased cognitive functioning in inflammatory bowel disease, <i>American Journal of Gastroenterology</i>
 
