@@ -11,6 +11,8 @@ author_profile: true
 ## 2022
 Figley CR, <strong>Uddin MN</strong>, Wong K, Kornelsen J, Puig J, Figley TD, <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.799576/full" target="_blank">Potential pitfalls of using fractional anisotropy, axial diffusivity, and radial diffusivity as biomarkers of cerebral white matter integrity.</a> <i>Frontiers in Neuroscience</i> 15:799576 (2022).
 
+Marrie RA, Patel R, Figley CR, Kornelsen J, Bolton J, Graff LA, Mazerolle EL, Helmick C, O’Grady C, <strong>Uddin MN</strong>, Figley TD, Marriott JJ, Bernstein CN, and Fisk JD for the Comorbidity and Cognition in Multiple Sclerosis (CCOMS) Study Group, Effects of vascular comorbidity on cognition in multiple sclerosis are partially mediated by changes in brain structure, <i>Frontiers in Neurology</i> (2022).
+
 ## 2021
 <strong>Uddin MN</strong>, Tivarus MT, Heather A, Little A, Schifitto G, Lande MB. <a href="https://pubmed.ncbi.nlm.nih.gov/33566685/" target="_blank">Magnetic Resonance Imaging In Childhood Primary Hypertension - Toward Understanding  Pathogenesis And Effects Of Treatment On Target Organ Damage To The Brain.</a> <i>Hypertension</i> 77(3), 751-758 (2021).  
 
@@ -66,7 +68,6 @@ Patel R, Marrie RA, Bernstein CN, MD, Bolton JM, Graff LA, Marriott JJ, Figley C
 
 <strong>Uddin MN</strong>, Figley TD, Kornelsen J, Mazerolle EL, Helmick CA, O’Grady CB, Pirzada S, Patel R, Carter S, Wong K, Essig MR, Puig J, Fisk JD, Marrie RA, and Figley CR, for the CCOMS Study Group, The comorbidity and cognition in multiple sclerosis (CCOMS) neuroimaging protocol: study rationale, MRI acquisition, and minimal image processing pipelines, <i>Frontiers in Neuroimaging</i>
 
-Marrie RA, Patel R, Figley CR, Kornelsen J, Bolton J, Graff LA, Mazerolle EL, Helmick C, O’Grady C, <strong>Uddin MN</strong>, Marriott JJ, Bernstein CN, and Fisk JD for the Comorbidity and Cognition in Multiple Sclerosis (CCOMS) Study Group, Effects of vascular comorbidity on cognition in multiple sclerosis are partially mediated by changes in brain structure, <i>Frontiers in Neurology</i>
 
 
 ## Peer Reviewed Conference Proceedings
