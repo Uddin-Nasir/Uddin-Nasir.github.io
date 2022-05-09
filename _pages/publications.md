@@ -9,6 +9,8 @@ author_profile: true
 ## Peer reviewed journal articles
 
 ## 2022
+Weber M, Alan F, <strong>Uddin MN</strong>, Qiu X, and Schifitto G, Longitudinal Effects of Combination Antiretroviral Therapy on Cognition and Neuroimaging Biomarkers in HIV Infected Treatment-Naïve Individuals, <i>Neurology</i> In Press (2022).
+
 Figley CR, <strong>Uddin MN</strong>, Wong K, Kornelsen J, Puig J, Figley TD, <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.799576/full" target="_blank">Potential pitfalls of using fractional anisotropy, axial diffusivity, and radial diffusivity as biomarkers of cerebral white matter integrity.</a> <i>Frontiers in Neuroscience</i> 15:799576 (2022).
 
 Marrie RA, Patel R, Figley CR, Kornelsen J, Bolton J, Graff LA, Mazerolle EL, Helmick C, O’Grady C, <strong>Uddin MN</strong>, Figley TD, Marriott JJ, Bernstein CN, and Fisk JD for the Comorbidity and Cognition in Multiple Sclerosis (CCOMS) Study Group, <a href="https://www.frontiersin.org/articles/10.3389/fneur.2022.910014/abstract" target="_blank"> Effects of vascular comorbidity on cognition in multiple sclerosis are partially mediated by changes in brain structure.</a> <i>Frontiers in Neurology</i> (2022).
@@ -60,7 +62,6 @@ Rahman MO, <strong>Uddin MN</strong>, Rahman MM, Muniruzzaman M, High precision 
 
 
 ## Manuscripts under review
-Weber M, Alan F, <strong>Uddin MN</strong>, Qiu X, and Schifitto G, Longitudinal Effects of Combination Antiretroviral Therapy on Cognition and Neuroimaging Biomarkers in HIV Infected Treatment-Naïve Individuals, <i>Neurology</i>
 
 Murray K, Tivarus MT, Schifitto G, <strong>Uddin MN</strong>, Zhong J, <a href="https://www.biorxiv.org/content/10.1101/2021.03.22.436449v1.full.pdf" target="_blank">Iron MRI Markers in the Presence of White Matter Lesions in Human Brain.</a> <i>Magnetic Resonance in Medicine</i>
 
