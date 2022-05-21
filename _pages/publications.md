@@ -9,7 +9,8 @@ author_profile: true
 ## Peer reviewed journal articles
 
 ## 2022
-Weber M, Alan F, <strong>Uddin MN</strong>, Qiu X, and Schifitto G, Longitudinal Effects of Combination Antiretroviral Therapy on Cognition and Neuroimaging Biomarkers in HIV Infected Treatment-Naïve Individuals, <i>Neurology</i> In Press (2022).
+Weber M, Alan F, <strong>Uddin MN</strong>, Reddy EA, Arduino RC, Wang L, Tivarus ME, Zhong J, Qiu X, and Schifitto G, Longitudinal Effects of Combination Antiretroviral Therapy on Cognition and Neuroimaging Biomarkers in HIV Infected Treatment-Naïve Individuals, <i>Neurology</i> In Press (2022).
+<strong>IF 9.91</strong> 
 
 Figley CR, <strong>Uddin MN</strong>, Wong K, Kornelsen J, Puig J, Figley TD, <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.799576/full" target="_blank">Potential pitfalls of using fractional anisotropy, axial diffusivity, and radial diffusivity as biomarkers of cerebral white matter integrity.</a> <i>Frontiers in Neuroscience</i> 15:799576 (2022).
 
