@@ -74,6 +74,13 @@ Patel R, Marrie RA, Bernstein CN, MD, Bolton JM, Graff LA, Marriott JJ, Figley C
 
 
 ## Peer Reviewed Conference Proceedings
+## 2022
+<strong>Uddin MN</strong>, Faiyaz A, Finkelstein A, Schifitto G, Myelin Water Imaging in an HIV Population at Risk of Cerebral Small Vessel Disease, Proc. Intl. Soc. Mag. Reson. Med. 30 (2022)
+
+Faiyaz A, Hoang N, Finkelstein A, Zhong J, Doyley M, Wang H, <strong>Uddin MN</strong>, Giovanni Schifitto, BayesTract: Automated machine learning based brain artery segmentation, anatomical prior annotation and feature-extraction in MR Angiography, Proc. Intl. Soc. Mag. Reson. Med. 30 (2022)
+
+Finkelstein A, <strong>Uddin MN</strong>, Zhong J, Schneider R, Schifitto G, Preliminary Evaluation of Risperidone in Huntington’s Disease: An Intravoxel Incoherent Motion (IVIM) Study, Proc. Intl. Soc. Mag. Reson. Med. 30 (2022)
+
 
 ## 2021
 <strong>Uddin MN</strong>, Faiyaz A, Schifitto G, Evaluation of White Matter Microstructure in an HIV Population at Risk of Cerebral Small Vessel Disease using Microscopic Fractional Anisotropy, Proc. Intl. Soc. Mag. Reson. Med. 29 (2021)
