@@ -20,11 +20,7 @@ o	Neurobiology of Aging; Scientific Reports; Molecular Neurobiology; American Jo
 
 - Conferecne Reviewer
 
-o	International Society for Magnetic Resonance in Medicine
-
-o	Organization for Human Brain Mapping
-
-o	Canadian Medical and Biological Engineering Conference
+o	International Society for Magnetic Resonance in Medicine; Organization for Human Brain Mapping; Canadian Medical and Biological Engineering Conference
 
 - Research Grant Reviewer
 
