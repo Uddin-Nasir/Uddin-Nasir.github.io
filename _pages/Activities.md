@@ -16,7 +16,7 @@ author_profile: true
 ## Service Acctivities 
 - Journal Reviewer
 
-o	Neurobiology of Aging; Scientific Reports; Molecular Neurobiology; American Journal of Neuroradiology;	Arabian Journal of Science and Engineering; International Journal of Analytical Chemistry; Communications Biology; Translational psychiatry; Multiple Sclerosis and related disorders; Sleep;	Plos One; Sleep Medicine; Frontiers in Neurology; Journal of Neuroscience Research
+o	Neurobiology of Aging; Scientific Reports; Molecular Neurobiology; American Journal of Neuroradiology;	Arabian Journal of Science and Engineering; International Journal of Analytical Chemistry; Communications Biology; Translational psychiatry; Multiple Sclerosis and related disorders; Sleep;	Plos One; Sleep Medicine; Frontiers in Neurology; Journal of Neuroscience Research; BMC Pediatrics. 
 
 - Conferecne Reviewer
 
@@ -28,7 +28,7 @@ o	Canadian Medical and Biological Engineering Conference
 
 o	NWO Talent Programme Vidi grant, Dutch Research Council, Netherlands
 
-o	American Heart Association (AHA) Covid grant, USA 
+o	American Heart Association (AHA) Covid-19 research grant, USA 
 
 o	Health Research Grants, PSI Foundation, Ontario, Canada 
 
