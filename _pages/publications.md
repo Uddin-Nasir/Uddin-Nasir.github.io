@@ -19,12 +19,13 @@ Figley CR, <strong>Uddin MN</strong>, Wong K, Kornelsen J, Puig J, Figley TD, <a
 Marrie RA, Patel R, Figley CR, Kornelsen J, Bolton J, Graff LA, Mazerolle EL, Helmick C, O’Grady C, <strong>Uddin MN</strong>, Figley TD, Marriott JJ, Bernstein CN, and Fisk JD for the Comorbidity and Cognition in Multiple Sclerosis (CCOMS) Study Group, <a href="https://www.frontiersin.org/articles/10.3389/fneur.2022.910014/abstract" target="_blank"> Effects of vascular comorbidity on cognition in multiple sclerosis are partially mediated by changes in brain structure.</a> <i>Frontiers in Neurology</i> (2022).
 <strong>IF 4.003</strong> 
 
+Faiyaz A, Doyley M, Schifitto G, Zhong J, <strong>Uddin MN*</strong>, <a href="https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.4628" target="_blank">Single-Shell NODDI reconstruction using deep learner estimated isotropic volume fraction</a>, <i>NMR in Biomedicine</i> (2022) *corresponding author  <strong>IF 4.044</strong> 
+
 ## 2021
 <strong>Uddin MN</strong>, Tivarus MT, Heather A, Little A, Schifitto G, Lande MB. <a href="https://pubmed.ncbi.nlm.nih.gov/33566685/" target="_blank">Magnetic Resonance Imaging In Childhood Primary Hypertension - Toward Understanding  Pathogenesis And Effects Of Treatment On Target Organ Damage To The Brain.</a> <i>Hypertension</i> 77(3), 751-758 (2021).  <strong>IF 10.19</strong> 
 
 <strong>Uddin MN*</strong>, Faiyaz A, Wang L, Zhuang Y, Murray K, Descoteaux M, Tivarus M, Weber M, Zhong J, Qiu X, and Schifitto G. <a href="https://www.nature.com/articles/s41598-021-87801-y" target="_blank">A longitudinal analysis of brain extracellular free water in HIV infected individuals.</a> <i>Scientific Reports</i>, 11(1), 1-12 (2021).  *corresponding author      <strong>IF 4.739</strong> 
 
-Faiyaz A, Doyley M, Schifitto G, Zhong J, <strong>Uddin MN*</strong>, <a href="https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.4628" target="_blank">Single-Shell NODDI reconstruction using deep learner estimated isotropic volume fraction</a>, <i>NMR in Biomedicine</i> (2021) *corresponding author  <strong>IF 4.044</strong> 
 
 Murray KD, <strong>Uddin MN</strong>, Tivarus ME, Sahin B, Wang HZ, Singh MV, Qiu X, Wang L, Spincemaille P, Wang Y, Maggirwar SB, Zhong J, and Schifitto G, <a href="https://www.sciencedirect.com/science/article/pii/S2213158221002308" target="_blank">Increased Risk for Cerebral Small Vessel Disease is Associated with Quantitative Susceptibility Mapping in HIV Infected and Uninfected Individuals.</a> <i>NeuroImage: Clinical</i>, vol 32, 102786 (2021).   <strong>IF 4.881</strong> 
 
