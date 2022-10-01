@@ -9,9 +9,9 @@ author_profile: true
 ## Peer reviewed journal articles
 
 ## 2022
-<strong>Uddin MN</strong>, Figley TD, Kornelsen J, Mazerolle EL, Helmick CA, O'Grady CB, Pirzada S, Patel R, Carter S, Wong K, Essig MR, Graff LA, Bolton JM, Marriott JJ, Bernstein CN, Fisk JD, Marrie RA and Figley CR, <a href="https://www.frontiersin.org/articles/10.3389/fnimg.2022.970385/full" target="_blank">The comorbidity and cognition in multiple sclerosis (CCOMS) neuroimaging protocol: Study rationale, MRI acquisition, and minimal image processing pipelines. <i>Front. Neuroimaging</i> 1:970385 (2022).
+<strong>Uddin MN</strong>, Figley TD, Kornelsen J, Mazerolle EL, Helmick CA, O'Grady CB, Pirzada S, Patel R, Carter S, Wong K, Essig MR, Graff LA, Bolton JM, Marriott JJ, Bernstein CN, Fisk JD, Marrie RA and Figley CR, <a href="https://www.frontiersin.org/articles/10.3389/fnimg.2022.970385/full" target="_blank">The comorbidity and cognition in multiple sclerosis (CCOMS) neuroimaging protocol: Study rationale, MRI acquisition, and minimal image processing pipelines.</a> <i>Front. Neuroimaging</i> 1:970385 (2022).
 
-Weber M, Alan F, <strong>Uddin MN</strong>, Reddy EA, Arduino RC, Wang L, Tivarus ME, Zhong J, Qiu X, and Schifitto G, <a href="https://pubmed.ncbi.nlm.nih.gov/35732504/" target="_blank">Longitudinal Effects of Combination Antiretroviral Therapy on Cognition and Neuroimaging Biomarkers in HIV Infected Treatment-Naïve Individuals, <i>Neurology</i> (2022).       <strong>IF 9.91</strong> 
+Weber M, Alan F, <strong>Uddin MN</strong>, Reddy EA, Arduino RC, Wang L, Tivarus ME, Zhong J, Qiu X, and Schifitto G, <a href="https://pubmed.ncbi.nlm.nih.gov/35732504/" target="_blank">Longitudinal Effects of Combination Antiretroviral Therapy on Cognition and Neuroimaging Biomarkers in HIV Infected Treatment-Naïve Individuals.</a> <i>Neurology</i> (2022).       <strong>IF 9.91</strong> 
 
 Figley CR, <strong>Uddin MN</strong>, Wong K, Kornelsen J, Puig J, Figley TD, <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.799576/full" target="_blank">Potential pitfalls of using fractional anisotropy, axial diffusivity, and radial diffusivity as biomarkers of cerebral white matter integrity.</a> <i>Frontiers in Neuroscience</i> 15:799576 (2022).
 <strong>IF 4.677</strong> 
