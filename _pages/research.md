@@ -16,6 +16,8 @@ author_profile: true
 ## Diffusion MRI 
 - DTI, Free Water Imaging, NODDI, b-tensor Encoding 
 
+## MR Elastography 
+
 ## Cerebrovascular Reactivity Mapping 
 - resting-state, CO2 challenge and intermitten breath modulaton based CVR from fMRI
 
