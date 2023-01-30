@@ -8,6 +8,10 @@ author_profile: true
 
 ## Peer reviewed journal articles
 
+## 2023 
+Murray KD, Tivarus ME, Schifitto G, <strong>Uddin MN</strong> and Zhong J. <a href="https://www.nature.com/articles/s41598-021-87801-y" target="_blank">Brain iron imaging markers in the presence of white matter hyperintensities.</a> <i>Scientific Reports</i>, 98, 115-123 (2023).      <strong>IF 1.13</strong> 
+
+
 ## 2022
 <strong>Uddin MN</strong>, Figley TD, Kornelsen J, Mazerolle EL, Helmick CA, O'Grady CB, Pirzada S, Patel R, Carter S, Wong K, Essig MR, Graff LA, Bolton JM, Marriott JJ, Bernstein CN, Fisk JD, Marrie RA and Figley CR, <a href="https://www.frontiersin.org/articles/10.3389/fnimg.2022.970385/full" target="_blank">The comorbidity and cognition in multiple sclerosis (CCOMS) neuroimaging protocol: Study rationale, MRI acquisition, and minimal image processing pipelines.</a> <i>Front. Neuroimaging</i> 1:970385 (2022).
 
