@@ -81,16 +81,6 @@ Rahman MM, Sheak MS, Pervin S, <strong>Uddin MN</strong>, Ahmed F, Hossain MA, R
 Rahman MO, <strong>Uddin MN</strong>, Rahman MM, Muniruzzaman M, High precision (+, -, -, +) monolithic monochromators with synchrotron radiation,’ <i>Bangladesh journal of physics</i>, vol. 2 (1), p. 73-79, (2006).
 
 
-## Manuscripts under review
-
-Murray K, Tivarus MT, Schifitto G, <strong>Uddin MN</strong>, Zhong J, <a href="https://www.biorxiv.org/content/10.1101/2021.03.22.436449v1.full.pdf" target="_blank">Iron MRI Markers in the Presence of White Matter Lesions in Human Brain.</a> <i>Magnetic Resonance in Medicine</i>
-
-Patel R, Marrie RA, Bernstein CN, MD, Bolton JM, Graff LA, Marriott JJ, Figley CR, Kornelsen J, Mazerolle EL, <strong>Uddin MN</strong>, Fisk JD for the Comorbidity and Cognition in Multiple Sclerosis (CCOMS) Study Group, Vascular comorbidity is associated with decreased cognitive functioning in inflammatory bowel disease, <i>American Journal of Gastroenterology</i>
-
-<strong>Uddin MN</strong>, Figley TD, Kornelsen J, Mazerolle EL, Helmick CA, O’Grady CB, Pirzada S, Patel R, Carter S, Wong K, Essig MR, Puig J, Fisk JD, Marrie RA, and Figley CR, for the CCOMS Study Group, The comorbidity and cognition in multiple sclerosis (CCOMS) neuroimaging protocol: study rationale, MRI acquisition, and minimal image processing pipelines, <i>Frontiers in Neuroimaging</i>
-
-
-
 ## Peer Reviewed Conference Proceedings
 ## 2022
 <strong>Uddin MN</strong>, Faiyaz A, Finkelstein A, Schifitto G, Myelin Water Imaging in an HIV Population at Risk of Cerebral Small Vessel Disease, Proc. Intl. Soc. Mag. Reson. Med. 30 (2022)
