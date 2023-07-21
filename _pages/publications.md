@@ -6,10 +6,21 @@ author_profile: true
 ---
 
 
-## Peer reviewed journal articles
+## Peer-reviewed journal articles
 
 ## 2023 
-Murray KD, Tivarus ME, Schifitto G, <strong>Uddin MN</strong> and Zhong J. <a href="https://www.nature.com/articles/s41598-021-87801-y" target="_blank">Brain iron imaging markers in the presence of white matter hyperintensities.</a> <i>Scientific Reports</i>, 98, 115-123 (2023).      <strong>IF 1.13</strong> 
+
+Faiyaz A, Doyley M, Schifitto G, <strong>Uddin MN</strong>. <a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1168833/full" target="_blank">Artificial intelligence for diffusion MRI-based tissue microstructure estimation in the human brain: an overview. </a> <i>Frontiers in Neurology.</i>, 14(700): 1-9 (2023). <strong>IF 4.086</strong> 
+
+Figley CR, Figley TD, Wong K, <strong>Uddin MN</strong>, da Silva RDC, and Kornelsen J. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2023.1196624/full" target="_blank">Periventricular and juxtacortical characterization of UManitoba-JHU functionally defined human white matter atlas networks" </a> <i>Front. Hum. Neurosci.</i>, 17: 1-8 (2023).
+
+Patel R, Marrie RA, Bernstein CN, Bolton JM, Graff LA, Marriott JJ, Figley CR, Kornelsen J, Mazerolle EL, <strong>Uddin MN</strong>, Fisk JD, <a href="https://pubmed.ncbi.nlm.nih.gov/36922532/" target="_blank">Vascular comorbidity is associated with decreased cognitive functioning in inflammatory bowel disease. </a> <i>Scientific Reports</i>, 13(1):4317 (2023).  <strong>IF 4.997</strong> 
+
+Aja-Fernandez, Santiago, et al. <a href="[https://www.frontiersin.org/articles/10.3389/fnimg.2022.970385/full" target="_blank"> Validation of Deep Learning Techniques for Quality Augmentation in Diffusion MRI for Clinical Studies.</a> <i>SSRN pre-print</i>, (2023).
+
+Singh MV, <strong>Uddin MN</strong>, Covacevich VM, Sutton KR, Boodoo ZD, Peterson A, Tyrell A, Brenner R, Tivarus ME, Wang HZ, Sahin B, Zhong J, Weber M, Wang L, Qiu X, Maggiwar SB, Schifitto G. <a href="https://www.medrxiv.org/content/10.1101/2023.03.24.23287660v1" target="_blank">Role of non-classical monocytes in HIV-associated vascular cognitive impairment.</a> <i>medRxiv.</i>, (2023).
+
+Murray KD, Tivarus ME, Schifitto G, <strong>Uddin MN</strong> and Zhong J. <a href="https://www.nature.com/articles/s41598-021-87801-y" target="_blank">Brain iron imaging markers in the presence of white matter hyperintensities.</a> <i>Magnetic Resonance Imaging </i>, 98, 115-123 (2023).      <strong>IF 3.13</strong> 
 
 
 ## 2022
