@@ -10,7 +10,7 @@ author_profile: true
 
 ## 2023 
 
-Faiyaz A, Doyley M, Schifitto G, <strong>Uddin MN</strong>. <a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1168833/full" target="_blank">Artificial intelligence for diffusion MRI-based tissue microstructure estimation in the human brain: an overview. </a> <i>Frontiers in Neurology.</i>, 14(700): 1-9 (2023). <strong>IF 4.086</strong> 
+Faiyaz A, Doyley M, Schifitto G, <strong>Uddin MN*</strong>. <a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1168833/full" target="_blank">Artificial intelligence for diffusion MRI-based tissue microstructure estimation in the human brain: an overview. </a> <i>Frontiers in Neurology.</i>, 14(700): 1-9 (2023). *corresponding author <strong>IF 4.086</strong> 
 
 Figley CR, Figley TD, Wong K, <strong>Uddin MN</strong>, da Silva RDC, and Kornelsen J. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2023.1196624/full" target="_blank">Periventricular and juxtacortical characterization of UManitoba-JHU functionally defined human white matter atlas networks" </a> <i>Front. Hum. Neurosci.</i>, 17: 1-8 (2023). <strong>IF 3.473</strong> 
 
