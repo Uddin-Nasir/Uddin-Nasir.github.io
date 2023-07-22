@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Nasir Uddin"
+title                    : "Nasir Uddin"
 title_separator          : "-"
 name                     : &name "Md Nasir Uddin, PhD"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Md Nasir Uddin, PhD"
   avatar           : "nasir.jpeg"
-  bio              : "Assistant Professor <a style='color: black;' href='https://www.urmc.rochester.edu/neurology.aspx'>Department of Neurology</a> and <a style='color: black;' href='http://www.hajim.rochester.edu/bme/'>Department of Biomedical Engineering</a>  <a style='color: black;' href='https://www.rochester.edu/'>University of Rochester</a>"
+  bio              : "Assistant Professor <a style='color: black;' href='https://www.rochester.edu/'>University of Rochester</a>"
   email            : "nasir_uddin@urmc.rochester.edu"
   location         : "Rochester, New York"
   employer         : 
