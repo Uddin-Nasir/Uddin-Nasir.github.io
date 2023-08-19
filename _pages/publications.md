@@ -12,11 +12,19 @@ author_profile: true
 
 Faiyaz A, Doyley M, Schifitto G, <strong>Uddin MN*</strong>. <a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1168833/full" target="_blank">Artificial intelligence for diffusion MRI-based tissue microstructure estimation in the human brain: an overview. </a> <i>Frontiers in Neurology.</i>, 14(700): 1-9 (2023). *corresponding author <strong>IF 4.086</strong> 
 
+
+Singh MV*, <strong>Uddin MN*</strong>, Singh VB, Peterson AN, Murray KD, Zhuang Y, Tyrell A, Wang L, Tivarus ME, Zhong J, Qiu X, Schifitto G,<a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1240300/abstract"target="_blank"> Initiation of combined antiretroviral therapy confers suboptimal beneficial effects on neurovascular function in people with HIV, Frontiers on Neurology (conditionally accepted), 2023 * equal contribution.</a> <i>Frontiers in Neurology.</i>, (2023). *equal contribution <strong>IF 4.086</strong>
+
+
+Patel R, Marrie RA, Bernstein CN, Bolton JM, Graff LA, Marriott JJ, Figley CR, Kornelsen J, Mazerolle EL, <strong>Uddin MN</strong>, Fisk JD, <a href="https://pubmed.ncbi.nlm.nih.gov/36922532/" target="_blank">Vascular disease is associated with differences in brain structure and lower cognitive functioning in inflammatory bowel disease: A cross-sectional study. </a> <i>inflammatory bowel diseases</i>, (2023).  <strong>IF 4.9</strong> 
+
+
+
 Figley CR, Figley TD, Wong K, <strong>Uddin MN</strong>, da Silva RDC, and Kornelsen J. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2023.1196624/full" target="_blank">Periventricular and juxtacortical characterization of UManitoba-JHU functionally defined human white matter atlas networks" </a> <i>Front. Hum. Neurosci.</i>, 17: 1-8 (2023). <strong>IF 3.473</strong> 
 
 Patel R, Marrie RA, Bernstein CN, Bolton JM, Graff LA, Marriott JJ, Figley CR, Kornelsen J, Mazerolle EL, <strong>Uddin MN</strong>, Fisk JD, <a href="https://pubmed.ncbi.nlm.nih.gov/36922532/" target="_blank">Vascular comorbidity is associated with decreased cognitive functioning in inflammatory bowel disease. </a> <i>Scientific Reports</i>, 13(1):4317 (2023).  <strong>IF 4.997</strong> 
 
-Aja-Fernandez, Santiago, et al. <a href="[https://www.frontiersin.org/articles/10.3389/fnimg.2022.970385/full" target="_blank"> Validation of Deep Learning Techniques for Quality Augmentation in Diffusion MRI for Clinical Studies.</a> <i>SSRN pre-print</i>, (2023).
+Aja-Fernandez, Santiago, et al. <a href="[https://www.frontiersin.org/articles/10.3389/fnimg.2022.970385/full" target="_blank"> Validation of Deep Learning Techniques for Quality Augmentation in Diffusion MRI for Clinical Studies.</a> <i>NeuroImage: Clinical</i>, 39:103483, (2023).  <strong>IF 4.891</strong> 
 
 Singh MV, <strong>Uddin MN</strong>, Covacevich VM, Sutton KR, Boodoo ZD, Peterson A, Tyrell A, Brenner R, Tivarus ME, Wang HZ, Sahin B, Zhong J, Weber M, Wang L, Qiu X, Maggiwar SB, Schifitto G. <a href="https://www.medrxiv.org/content/10.1101/2023.03.24.23287660v1" target="_blank">Role of non-classical monocytes in HIV-associated vascular cognitive impairment.</a> <i>medRxiv.</i>, (2023).
 
