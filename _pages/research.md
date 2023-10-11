@@ -30,7 +30,10 @@ Dr. Uddin's recent projects include:
 #  Research Grants:
 
 
-•	9/2023-8/2025
+Patel R, Marrie RA, Bernstein CN, Bolton JM, Graff LA, Marriott JJ, Figley CR, Kornelsen J, Mazerolle EL, <strong>Uddin MN</strong>, Fisk JD, <a href="https://pubmed.ncbi.nlm.nih.gov/36922532/" target="_blank">Vascular disease is associated with differences in brain structure and lower cognitive functioning in inflammatory bowel disease: A cross-sectional study. </a> <i>inflammatory bowel diseases</i>, (2023).  <strong>IF 7.29</strong> 
+
+
+<strong>• 9/2023-8/2025</strong>
 
 Title: Automated machine learning-based brain artery segmentation, anatomical prior labeling, and feature extraction on MR Angiography (PI: Uddin)
 
