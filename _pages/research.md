@@ -27,7 +27,7 @@ Dr. Uddin's recent projects include:
 
 
 
-###  Research Grants:
+#  Research Grants:
 
 
 •	9/2023-8/2025
@@ -85,5 +85,5 @@ Role: Principal Investigator
 Title: The Comorbidity, Cognition and Multiple Sclerosis (CCOMS) Study (PI: Marrie)
 Source: MS Society Canada 
 Role: MRI Physicist
-![image](https://github.com/Uddin-Nasir/Uddin-Nasir.github.io/assets/67066756/9d71d39c-36c7-4d76-9f15-f1487bd02050)
+
   
