@@ -34,10 +34,15 @@ Dr. Uddin's recent projects include:
 <strong>• 9/2023-8/2025</strong>
 
 <strong>Title:</strong> Automated machine learning-based brain artery segmentation, anatomical prior labeling, and feature extraction on MR Angiography (PI: Uddin)
+
 <strong>Major Goals:</strong> The goal of this proposal is to develop and validate an automated approach to segment and classify brain arteries and extract vascular features with high fidelity from low-resolution clinical MRA images utilizing a prospective machine learning framework with a small training set for clinical convenience. 
+
 <strong>Source:</strong> National Institute of Health (NIH)
+
 <strong>Role:</strong> Principal Investigator 
+
 <strong>Total Award:</strong> $154,000
+
 
 
 <strong>•	7/2018-4/2024</strong>
@@ -53,6 +58,7 @@ Dr. Uddin's recent projects include:
 <strong>Total Award:</strong> $3,439,828
 
 
+
 <strong>•	7/2022-6/2027</strong>
 
 <strong>Title:</strong> Brain signature of SARS-CoV-2 Infection and its impact on long-term cognitive functioning in older adults (PI: Schifitto)
@@ -66,6 +72,7 @@ Dr. Uddin's recent projects include:
 <strong>Total Award:</strong> $3,693,927
 
 
+
 <strong>•	12/2023-11/2028</strong>
 
 <strong>Title:</strong> Role of monocyte Delta like-4 (Dll4) in HIV-associated cerebral small vessel disease (MPI: Schifitto, Pang)
@@ -76,7 +83,8 @@ Dr. Uddin's recent projects include:
 
 <strong>Role:</strong> Co-Investigator 
 
-<strong>Total Award:</strong> 3,786,333
+<strong>Total Award:</strong> $3,786,333
+
 
 
 <strong>•	8/2021-5/2024</strong>
@@ -92,6 +100,7 @@ Dr. Uddin's recent projects include:
 <strong>Total Award:</strong> $117,418
 
 
+
 <strong>•	12/2022-11/2027</strong>
 
 <strong>Title:</strong> Brain Structural Biomarkers of Risk and Resilience to Pain Chronification (PI: Geha)
@@ -103,7 +112,7 @@ resilience to pain chronification after the onset of low-back pain by testing sp
 
 <strong>Role:</strong> Co-Investigator 
 
-<strong>Total Award:</strong> 2,431,293
+<strong>Total Award:</strong> $2,431,293
 
 
 
