@@ -26,7 +26,7 @@ Dr. Uddin's recent projects include:
 ## Structural and functional connectivity
 
 
-
+#
 
 #  Research Grants:
 
@@ -57,7 +57,7 @@ Dr. Uddin's recent projects include:
 
 <strong>Total Award:</strong> $3,439,828
 
-
+#
 
 <strong>•	7/2022-6/2027</strong>
 
@@ -71,7 +71,7 @@ Dr. Uddin's recent projects include:
 
 <strong>Total Award:</strong> $3,693,927
 
-
+#
 
 <strong>•	12/2023-11/2028</strong>
 
@@ -85,7 +85,7 @@ Dr. Uddin's recent projects include:
 
 <strong>Total Award:</strong> $3,786,333
 
-
+#
 
 <strong>•	8/2021-5/2024</strong>
 
@@ -99,7 +99,7 @@ Dr. Uddin's recent projects include:
 
 <strong>Total Award:</strong> $117,418
 
-
+#
 
 <strong>•	12/2022-11/2027</strong>
 
@@ -114,7 +114,7 @@ resilience to pain chronification after the onset of low-back pain by testing sp
 
 <strong>Total Award:</strong> $2,431,293
 
-
+#
 
 <strong>•	07/2020- 05/2021</strong>
 
@@ -124,7 +124,7 @@ resilience to pain chronification after the onset of low-back pain by testing sp
 
 <strong>Role:</strong> Principal Investigator 
 
-
+#
 <strong>•	04/2016- 03/2019</strong>
 
 <strong>Title:</strong> The Comorbidity, Cognition and Multiple Sclerosis (CCOMS) Study (PI: Marrie)
@@ -133,4 +133,4 @@ resilience to pain chronification after the onset of low-back pain by testing sp
 
 <strong>Role:</strong> MRI Physicist
 
-  
+#
