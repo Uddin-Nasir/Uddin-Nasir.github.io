@@ -12,24 +12,22 @@ redirect_from:
 I’m an Assistant Professor at the [University of Rochester](https://www.rochester.edu/), New York in the [Department of Neurology](https://www.urmc.rochester.edu/neurology.aspx) and [Department of Biomedical Engineering](http://www.hajim.rochester.edu/bme/). My journey in academia and research has been dedicated to unraveling the mysteries of the human brain through multmodal MRI techniques. I completed my Ph.D. in Biomedical Engineering at the [University of Alberta](https://www.ualberta.ca/index.html) under Professor [Alan Wilman](https://www.ualberta.ca/biomedical-engineering/research/peter-s-allen-mr-research-centre/research-team/dr-alan-wilman.html)'s supervision in December 2015. Before that, I earned my B.Sc. Honours and M.Sc. in physics, which provided a solid foundation for my current research pursuits. 
 
 # Research Focus
-With more than 12 years of invaluable experience in the field, my research interests converge at the thrilling intersection of MRI physics and neuroscience. My ultimate goal is to advance our comprehension of the human brain's structure and function, both in its healthy state and when afflicted by various diseases. My expertise and interests span a wide range of captivating topics, including:
+My research interests lie at the fascinating intersection of MRI physics and neuroscience, where I am dedicated to advancing our understanding of the human brain's structure and function in both healthy and diseased states. 
 
-## Developing Advanced MRI Methods: 
-My passion lies in actively contributing to the development of cutting-edge MRI methods, enabling precise visualization and quantification of neuroinflammation and neuronal injury. Additionally, I am focused on refining image processing pipelines to extract meaningful information from complex MRI datasets.
+🌟 Some of my key interests and areas of expertise include: 🌟
 
-## Investigating Neuroinflammation and Neurodegeneration:
-Through pioneering the innovative use of diffusion MRI methods, such as free water imaging (FWI), neurite orientation dispersion and density imaging (NODDI), and b-tensor encoding, I strive to gain deeper insights into neuroinflammation and neurodegenerative processes. My exploration also extends to leveraging T2-based myelin water imaging (MWI) and multifrequency MR Elastography as valuable tools for these investigations.
+1️⃣ Developing cutting-edge MRI methods and image processing pipelines to enhance brain imaging accuracy.
 
-## Exploring Iron-Sensitive Measures: 
-My work actively involves researching potential biomarkers using quantitative susceptibility mapping (QSM) and relaxometry mappings (T2, T2*, T2’) to better understand the pivotal role of iron in brain health and disease.
+2️⃣ Unraveling Neuroinflammation and Neurodegeneration via Diffusion MRI Methods, and T2-based myelin water imaging to improve diagnostic and therapeutic approaches.
 
-## Investigating Vascular Dysfunction: 
-My passion extends to studying vascular dysfunction through perfusion MRI and resting-state fMRI-based cerebrovascular reactivity. Additionally, I am delving into vascular remodeling using time-of-flight MR Angiography, with the exciting aim of developing an automated AI-based approach for the segmentation and classification of brain arteries and extracting essential vascular features with minimum training datasets.
+3️⃣ Investigating Iron-Sensitive Measures such as quantitative susceptibility mapping and relaxometry mappings to identify iron-sensitive measures that could serve as promising biomarkers for neurodegenerative processes in the brain.
 
-## Linking Structural and Functional MRI Measures: 
-My endeavors encompass meticulously analyzing the relationship between structural and functional MRI measures, blood markers, and cognitive performance across diverse populations, embracing healthy individuals, aging populations, and those impacted by various clinical conditions.
+4️⃣ Probing Vascular Dysfunction through Advanced MRI Techniques such as perfusion MRI and resting-state fMRI-based cerebrovascular reactivity. Additionally, I am delving into vascular remodeling using time-of-flight MR Angiography, with the exciting aim of developing an automated AI-based approach for the segmentation and classification of brain arteries and extracting essential vascular features.
 
-In conclusion, my passion for advancing MRI techniques and my dedication to understanding the complexities of the human brain drive my research endeavors. Through my work, I strive to contribute significantly to the field of neuroscience and make meaningful contributions to the diagnosis, treatment, and management of neurological conditions.
+5️⃣ Exploring the relationship between structural and functional MRI measures, blood markers and cognitive performance in diverse populations, including healthy individuals, aging individuals, and those affected by neurological conditions such as Multiple Sclerosis, HIV, CSVD, Stroke, Parkinson's Disease, and Hypertension.
 
-## Key words
-MRI, Brain, Iron, Myelin, Neuroinflammation, diffusion MRI, Free Water, Multiple Sclerosis, HIV, CSVD, Artificial Inteligence. 
+In addition, I serve as an Academic Editor for PLOS One, and hold esteemed roles as a Guest Associate Editor and Review Editor for Frontiers in Neurology.
+
+
+## Keywords
+MRI, Brain, Iron, Myelin, Neuroinflammation, diffusion MRI, Free Water, Multiple Sclerosis, HIV, CSVD, Artificial intelligence. 
