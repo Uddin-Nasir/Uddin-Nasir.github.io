@@ -92,9 +92,39 @@ resilience to pain chronification after the onset of low-back pain by testing sp
 
 <strong>Total Award:</strong> $2,431,293
 
+## Pending grants
+
+<strong>•	04/2024-03/2029</strong>
+
+<strong>Title:</strong> HIV and nonalcoholic fatty liver disease (NAFLD) associated neuroinflammation and metabolic dysfunction measured by multimodal magnetic resonance imaging
+
+<strong>Major Goals:</strong> This study aims to develop a AI-based molecular MRI technique and to investigate the co-occurrence of NAFLD and HIV infection and their potential impact on brain dysfunction and cognitive impairment. 
+
+<strong>Source:</strong> National Institute of Health (NIH)
+
+<strong>Role:</strong> Principal Investigator 
+
+<strong>Total Award:</strong> $2,597,800
+
+#
+
+<strong>•	04/2024-03/2029</strong>
+
+<strong>Title:</strong> Mapping changes in iron distribution and myelin integrity in multiple sclerosis
+
+<strong>Major Goals:</strong> This study will provide better understanding on the potential role of iron concentration and distribution in mediating the pathogenesis of MS, especially concerning demyelination and axonal injury, as well as its impact on cognitive performance. 
+
+<strong>Source:</strong> National Institute of Health (NIH)
+
+<strong>Role:</strong> Principal Investigator 
+
+<strong>Total Award:</strong> $421,556
 
 
-# recently completed
+
+
+
+## recently completed
 
 <strong>•	07/2020- 05/2021</strong>
 
