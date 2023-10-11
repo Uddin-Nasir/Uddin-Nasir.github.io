@@ -8,7 +8,7 @@ author_profile: true
 
 #  Research Grants:
 
-
+## Active grants
 <strong>• 9/2023-8/2025</strong>
 
 <strong>Title:</strong> Automated machine learning-based brain artery segmentation, anatomical prior labeling, and feature extraction on MR Angiography (PI: Uddin)
@@ -92,7 +92,9 @@ resilience to pain chronification after the onset of low-back pain by testing sp
 
 <strong>Total Award:</strong> $2,431,293
 
-#
+
+
+# recently completed
 
 <strong>•	07/2020- 05/2021</strong>
 
