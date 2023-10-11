@@ -10,14 +10,17 @@ author_profile: true
 
 ## 2023 
 
+
 Faiyaz A, Doyley M, Schifitto G, <strong>Uddin MN*</strong>. <a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1168833/full" target="_blank">Artificial intelligence for diffusion MRI-based tissue microstructure estimation in the human brain: an overview. </a> <i>Frontiers in Neurology.</i>, 14(700): 1-9 (2023). *corresponding author <strong>IF 4.086</strong> 
 
 
-Singh MV*, <strong>Uddin MN*</strong>, Singh VB, Peterson AN, Murray KD, Zhuang Y, Tyrell A, Wang L, Tivarus ME, Zhong J, Qiu X, Schifitto G,<a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1240300/abstract" target="_blank"> Initiation of combined antiretroviral therapy confers suboptimal beneficial effects on neurovascular function in people with HIV.</a> <i>Frontiers in Neurology.</i>, (2023). *equal contribution <strong>IF 4.086</strong>
+Singh MV*, <strong>Uddin MN*</strong>, Singh VB, Peterson AN, Murray KD, Zhuang Y, Tyrell A, Wang L, Tivarus ME, Zhong J, Qiu X, Schifitto G,<a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1240300/abstract" target="_blank"> Initiation of combined antiretroviral therapy confers suboptimal beneficial effects on neurovascular function in people with HIV.</a> <i>Frontiers in Neurology</i>, (2023). *equal contribution <strong>IF 4.086</strong>
 
 
-Patel R, Marrie RA, Bernstein CN, Bolton JM, Graff LA, Marriott JJ, Figley CR, Kornelsen J, Mazerolle EL, <strong>Uddin MN</strong>, Fisk JD, <a href="https://pubmed.ncbi.nlm.nih.gov/36922532/" target="_blank">Vascular disease is associated with differences in brain structure and lower cognitive functioning in inflammatory bowel disease: A cross-sectional study. </a> <i>inflammatory bowel diseases</i>, (2023).  <strong>IF 4.9</strong> 
+Kornelsen J, McIver T, <strong>Uddin MN*</strong>, Figley CR, Marrie RA, Patel R, Fisk JD, Carter S, Graff L, Mazerolle EL, Bernstein CN, <a href="https://www.sciencedirect.com/science/article/pii/S036192302300196X?via%3Dihub" target="_blank"> Altered voxel-based and surface-based morphometry in inflammatory bowel disease. </a> <i>Brain research bulletin.</i>, 110771 (2023).  <strong>IF 4.077</strong>
 
+
+Patel R, Marrie RA, Bernstein CN, Bolton JM, Graff LA, Marriott JJ, Figley CR, Kornelsen J, Mazerolle EL, <strong>Uddin MN</strong>, Fisk JD, <a href="https://pubmed.ncbi.nlm.nih.gov/36922532/" target="_blank">Vascular disease is associated with differences in brain structure and lower cognitive functioning in inflammatory bowel disease: A cross-sectional study. </a> <i>inflammatory bowel diseases</i>, (2023).  <strong>IF 7.29</strong> 
 
 
 Figley CR, Figley TD, Wong K, <strong>Uddin MN</strong>, da Silva RDC, and Kornelsen J. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2023.1196624/full" target="_blank">Periventricular and juxtacortical characterization of UManitoba-JHU functionally defined human white matter atlas networks" </a> <i>Front. Hum. Neurosci.</i>, 17: 1-8 (2023). <strong>IF 3.473</strong> 
