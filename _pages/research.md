@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-# Research Focus
+
 With more than 12 years of invaluable experience in the field, my research interests converge at the thrilling intersection of MRI physics and neuroscience. My ultimate goal is to advance our comprehension of the human brain's structure and function, both in its healthy state and when afflicted by various diseases. My expertise and interests span a wide range of captivating topics, including:
 
 ## Developing Advanced MRI Methods: 
