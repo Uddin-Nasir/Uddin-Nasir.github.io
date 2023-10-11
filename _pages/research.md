@@ -28,10 +28,14 @@ Dr. Uddin's recent projects include:
 
 
 ## Research Grants:
+
 # 09/2023 - 08/2025
 Title: Automated machine learning-based brain artery segmentation, anatomical prior labeling, and feature extraction on MR Angiography
+
 Source: National Institutes of Health
+
 Role: Principal Investigator
+
 Total Award: $154,000
 
 # 
