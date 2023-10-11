@@ -108,11 +108,11 @@ resilience to pain chronification after the onset of low-back pain by testing sp
 
 #
 
-<strong>•	04/2024-03/2029</strong>
+<strong>•	07/2024-06/2026</strong>
 
 <strong>Title:</strong> Mapping changes in iron distribution and myelin integrity in multiple sclerosis
 
-<strong>Major Goals:</strong> This study will provide better understanding on the potential role of iron concentration and distribution in mediating the pathogenesis of MS, especially concerning demyelination and axonal injury, as well as its impact on cognitive performance. 
+<strong>Major Goals:</strong> This study will provide a better understanding of the potential role of iron concentration and distribution in mediating the pathogenesis of MS, especially concerning demyelination and axonal injury, as well as its impact on cognitive performance. 
 
 <strong>Source:</strong> National Institute of Health (NIH)
 
@@ -120,9 +120,19 @@ resilience to pain chronification after the onset of low-back pain by testing sp
 
 <strong>Total Award:</strong> $421,556
 
+#
 
+<strong>•	04/2024-03/2027</strong>
 
+<strong>Title:</strong> SARSCoV-2 Contribution to HIV-Associated Neuroinflammation and Disrupted Neuronal Circuits, in the Context of Cognitive Impairment and Depression (MPI: Decloedt, Schifitto)
 
+<strong>Major Goals:</strong> This study will provide insights on neuropsychiatric manifestations, such as cognitive impairment and depression, in people with HIV who have also experienced SARS‐CoV‐2 infection (COVID-19). 
+
+<strong>Source:</strong> National Institute of Health (NIH)
+
+<strong>Role:</strong> Co-Investigator 
+
+<strong>Total Award:</strong> $2,802,286
 
 ## recently completed
 
