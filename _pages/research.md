@@ -24,6 +24,10 @@ My endeavors encompass meticulously analyzing the relationship between structura
 
 In conclusion, my passion for advancing MRI techniques and my dedication to understanding the complexities of the human brain drive my research endeavors. Through my work, I strive to contribute significantly to the field of neuroscience and make meaningful contributions to the diagnosis, treatment, and management of neurological conditions.
 
+
+##############
+
+
 #  Research Grants:
 
 ## Active
