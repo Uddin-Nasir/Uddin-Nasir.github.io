@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Latest News"
 permalink: /cv/
 author_profile: true
 
@@ -8,9 +8,9 @@ author_profile: true
 
  {% include base_path %}
 
-Education
+Latest Updates
 ======
 
-* Ph.D in Biomedical Engineering, University of Alberta, 2015
+* 
 
 
