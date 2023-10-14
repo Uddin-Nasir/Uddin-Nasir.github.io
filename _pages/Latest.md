@@ -8,9 +8,8 @@ author_profile: true
 
  {% include base_path %}
 
-Latest Updates
 ======
 
-* 
+
 
 
