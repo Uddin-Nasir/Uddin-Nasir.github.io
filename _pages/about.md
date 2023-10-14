@@ -11,7 +11,7 @@ redirect_from:
 
 I’m an Assistant Professor at the [University of Rochester](https://www.rochester.edu/), New York in the [Department of Neurology](https://www.urmc.rochester.edu/neurology.aspx) and [Department of Biomedical Engineering](http://www.hajim.rochester.edu/bme/). My journey in academia and research has been dedicated to unraveling the mysteries of the human brain through multmodal MRI techniques. I completed my Ph.D. in Biomedical Engineering at the [University of Alberta](https://www.ualberta.ca/index.html) under Professor [Alan Wilman](https://www.ualberta.ca/biomedical-engineering/research/peter-s-allen-mr-research-centre/research-team/dr-alan-wilman.html)'s supervision in December 2015. Before that, I earned my B.Sc. Honours and M.Sc. in physics, which provided a solid foundation for my current research pursuits. 
 
-# Research Focus
+## Research Focus
 My research interests lie at the fascinating intersection of MRI physics and neuroscience, where I am dedicated to advancing our understanding of the human brain's structure and function in both healthy and diseased states. 
 
 🌟 Some of my key interests and areas of expertise include: 🌟
