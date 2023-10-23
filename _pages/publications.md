@@ -17,6 +17,9 @@ Faiyaz A, Doyley M, Schifitto G, <strong>Uddin MN*</strong>. <a href="https://ww
 Singh MV*, <strong>Uddin MN*</strong>, Singh VB, Peterson AN, Murray KD, Zhuang Y, Tyrell A, Wang L, Tivarus ME, Zhong J, Qiu X, Schifitto G,<a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1240300/abstract" target="_blank"> Initiation of combined antiretroviral therapy confers suboptimal beneficial effects on neurovascular function in people with HIV.</a> <i>Frontiers in Neurology</i>, (2023). *equal contribution <strong>IF 4.086</strong>
 
 
+Carter SL, Patel R, Fisk JD, Figley CR, Marrie RA, Mazerolle EL, <strong>Uddin MN</strong>, Wong K, Graff LA, Bolton JM and Marriott JJ, <a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1250894/full" target="_blank"> Differences in resting state functional connectivity relative to multiple sclerosis and impaired information processing speed.</a> <i>Frontiers in Neurology</i>14: 1250894 (2023), <strong>IF 4.086</strong>
+
+
 Kornelsen J, McIver T, <strong>Uddin MN*</strong>, Figley CR, Marrie RA, Patel R, Fisk JD, Carter S, Graff L, Mazerolle EL, Bernstein CN, <a href="https://www.sciencedirect.com/science/article/pii/S036192302300196X?via%3Dihub" target="_blank"> Altered voxel-based and surface-based morphometry in inflammatory bowel disease. </a> <i>Brain research bulletin.</i>, 110771 (2023).  <strong>IF 4.077</strong>
 
 
@@ -93,6 +96,9 @@ Rahman MO, <strong>Uddin MN</strong>, Rahman MM, Muniruzzaman M, High precision 
 
 
 ## Peer Reviewed Conference Proceedings
+## 2023
+
+
 ## 2022
 <strong>Uddin MN</strong>, Faiyaz A, Finkelstein A, Schifitto G, Myelin Water Imaging in an HIV Population at Risk of Cerebral Small Vessel Disease, Proc. Intl. Soc. Mag. Reson. Med. 30 (2022)
 
