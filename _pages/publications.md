@@ -17,6 +17,9 @@ Faiyaz A, Doyley M, Schifitto G, <strong>Uddin MN*</strong>. <a href="https://ww
 Singh MV*, <strong>Uddin MN*</strong>, Singh VB, Peterson AN, Murray KD, Zhuang Y, Tyrell A, Wang L, Tivarus ME, Zhong J, Qiu X, Schifitto G,<a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1240300/abstract" target="_blank"> Initiation of combined antiretroviral therapy confers suboptimal beneficial effects on neurovascular function in people with HIV.</a> <i>Frontiers in Neurology</i>, (2023). *equal contribution <strong>IF 4.086</strong>
 
 
+Aja-Fernández S, Martín-Martín C, Planchuelo-Gómez Á, Faiyaz A, <strong>Uddin MN</strong>, Schifitto G, Tiwari A, Shigwan SJ, Singh RK, Zheng T and Cao Z. <a href="https://www.sciencedirect.com/science/article/pii/S2213158223001742/" target="_blank"> Validation of Deep Learning Techniques for Quality Augmentation in Diffusion MRI for Clinical Studies.</a> <i>NeuroImage: Clinical</i>, 39:103483, (2023).  <strong>IF 4.891</strong> 
+
+
 Carter SL, Patel R, Fisk JD, Figley CR, Marrie RA, Mazerolle EL, <strong>Uddin MN</strong>, Wong K, Graff LA, Bolton JM and Marriott JJ, <a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1250894/full" target="_blank"> Differences in resting state functional connectivity relative to multiple sclerosis and impaired information processing speed.</a> <i>Frontiers in Neurology</i>14: 1250894 (2023), <strong>IF 4.086</strong>
 
 
@@ -28,9 +31,9 @@ Patel R, Marrie RA, Bernstein CN, Bolton JM, Graff LA, Marriott JJ, Figley CR, K
 
 Figley CR, Figley TD, Wong K, <strong>Uddin MN</strong>, da Silva RDC, and Kornelsen J. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2023.1196624/full" target="_blank">Periventricular and juxtacortical characterization of UManitoba-JHU functionally defined human white matter atlas networks" </a> <i>Front. Hum. Neurosci.</i>, 17: 1-8 (2023). <strong>IF 3.473</strong> 
 
+
 Patel R, Marrie RA, Bernstein CN, Bolton JM, Graff LA, Marriott JJ, Figley CR, Kornelsen J, Mazerolle EL, <strong>Uddin MN</strong>, Fisk JD, <a href="https://pubmed.ncbi.nlm.nih.gov/36922532/" target="_blank">Vascular comorbidity is associated with decreased cognitive functioning in inflammatory bowel disease. </a> <i>Scientific Reports</i>, 13(1):4317 (2023).  <strong>IF 4.997</strong> 
 
-Aja-Fernandez, Santiago, et al. <a href="[https://www.frontiersin.org/articles/10.3389/fnimg.2022.970385/full" target="_blank"> Validation of Deep Learning Techniques for Quality Augmentation in Diffusion MRI for Clinical Studies.</a> <i>NeuroImage: Clinical</i>, 39:103483, (2023).  <strong>IF 4.891</strong> 
 
 Singh MV, <strong>Uddin MN</strong>, Covacevich VM, Sutton KR, Boodoo ZD, Peterson A, Tyrell A, Brenner R, Tivarus ME, Wang HZ, Sahin B, Zhong J, Weber M, Wang L, Qiu X, Maggiwar SB, Schifitto G. <a href="https://www.medrxiv.org/content/10.1101/2023.03.24.23287660v1" target="_blank">Role of non-classical monocytes in HIV-associated vascular cognitive impairment.</a> <i>medRxiv.</i>, (2023).
 
