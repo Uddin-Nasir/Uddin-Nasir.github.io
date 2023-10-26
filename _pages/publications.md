@@ -100,6 +100,13 @@ Rahman MO, <strong>Uddin MN</strong>, Rahman MM, Muniruzzaman M, High precision 
 
 ## Peer Reviewed Conference Proceedings
 ## 2023
+<strong>Uddin MN</strong>, Tivarus ME, Adams H, Singh MV, Little E, Wu T, Lande M, Schifitto G, Surface based brain morphometry in adolescents with cardiovascular risk factors, Organization for Human Brain Mapping (OHBM) (2023)
+
+Aja-Fernandez S, Martin CM, .. <strong>Uddin MN</strong> et al. Validation of Deep Learning techniques for quality augmentation in diffusion MRI for clinical studies, Proc. Intl. Soc. Mag. Reson. Med. 31 (2023)
+
+Hoang N, Waqqas M, Faiyaz A, Sahin B, Wang H, Yang H, Zhong J, Wong H, <strong>Uddin MN</strong>, Schifitto G, Effects of HIV-associated chronic inflammation on intracranial vessels using semi-automatic segmentation of MRA cerebrovascular features, Proc. Intl. Soc. Mag. Reson. Med. 31 (2023).
+
+Singh MV, <strong>Uddin MN</strong>, Covacevich M, Boodoo Z, Sutton K, Johnson A, Tivarus ME, Wang HZ, Sahin B, Zhong J, Weber M, Qiu X, Maggiwar SB, Schifitto G, Non-classical monocytes correlate negatively with HIV-associated cognitive impairment, CROI Conference, 2023 
 
 
 ## 2022
