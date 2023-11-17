@@ -17,6 +17,9 @@ Faiyaz A, Doyley M, Schifitto G, <strong>Uddin MN*</strong>. <a href="https://ww
 Singh MV*, <strong>Uddin MN*</strong>, Singh VB, Peterson AN, Murray KD, Zhuang Y, Tyrell A, Wang L, Tivarus ME, Zhong J, Qiu X, Schifitto G,<a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1240300/abstract" target="_blank"> Initiation of combined antiretroviral therapy confers suboptimal beneficial effects on neurovascular function in people with HIV.</a> <i>Frontiers in Neurology</i>, (2023). *equal contribution <strong>IF 4.086</strong>
 
 
+<strong>Uddin MN*</strong>, Tivarus ME, Schifitto G, & Rudko DA. <a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1328511/full" target="_blank">  Neuroimaging of Neuroinflammation in Neurological Disorders.</a> <i>Frontiers in Neurology</i> 14, 1328511, (2023).
+
+
 Aja-Fernández S, Martín-Martín C, Planchuelo-Gómez Á, Faiyaz A, <strong>Uddin MN</strong>, Schifitto G, Tiwari A, Shigwan SJ, Singh RK, Zheng T and Cao Z. <a href="https://www.sciencedirect.com/science/article/pii/S2213158223001742/" target="_blank"> Validation of Deep Learning Techniques for Quality Augmentation in Diffusion MRI for Clinical Studies.</a> <i>NeuroImage: Clinical</i>, 39:103483, (2023).  <strong>IF 4.891</strong> 
 
 
