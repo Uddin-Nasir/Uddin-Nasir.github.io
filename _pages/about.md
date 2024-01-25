@@ -34,9 +34,7 @@ MRI, Brain, Iron, Myelin, Neuroinflammation, diffusion MRI, Free Water, Multiple
 
 ## Contact
 Md Nasir Uddin, PhD 
-
-University of Rochester
-601 Elmwood Ave
-Rochester, NY 14642
-
+University of Rochester  
+601 Elmwood Ave  
+Rochester, NY 14642   
 Email: nasir_uddin@urmc.rochester.edu
