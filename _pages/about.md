@@ -33,8 +33,10 @@ In addition, I serve as an Academic Editor for PLOS One, and hold esteemed roles
 MRI, Brain, Iron, Myelin, Neuroinflammation, diffusion MRI, Free Water, Multiple Sclerosis, HIV, CSVD, Artificial intelligence.
 
 ## Contact
-Md Nasir Uddin, PhD
+Md Nasir Uddin, PhD 
+
 University of Rochester
 601 Elmwood Ave
 Rochester, NY 14642
+
 Email: nasir_uddin@urmc.rochester.edu
