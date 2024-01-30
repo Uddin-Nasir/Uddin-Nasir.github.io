@@ -9,10 +9,6 @@ With more than 12 years of invaluable experience in the field, my research inter
 
 ## Developing Advanced MRI Methods: 
 My passion lies in actively contributing to the development of cutting-edge MRI methods, enabling precise visualization and quantification of neuroinflammation and neuronal injury. Additionally, I am focused on refining image processing pipelines to extract meaningful information from complex MRI datasets.
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
- # Single-shell NODDI reconstruction: 
-We have recently developed 
 
 ## Investigating Neuroinflammation and Neurodegeneration:
 Through pioneering the innovative use of diffusion MRI methods, such as free water imaging (FWI), neurite orientation dispersion and density imaging (NODDI), and b-tensor encoding, I strive to gain deeper insights into neuroinflammation and neurodegenerative processes. My exploration also extends to leveraging T2-based myelin water imaging (MWI) and multifrequency MR Elastography as valuable tools for these investigations.
