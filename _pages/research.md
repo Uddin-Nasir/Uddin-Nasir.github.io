@@ -7,11 +7,11 @@ author_profile: true
 
 With more than 12 years of invaluable experience in the field, my research interests converge at the thrilling intersection of MRI physics and neuroscience. My ultimate goal is to advance our comprehension of the human brain's structure and function, both in its healthy state and when afflicted by various diseases. My expertise and interests span a wide range of captivating topics, including:
 
-<div class="jumbotron">
- <h4>Method Development</h4>
 ## Developing Advanced MRI Methods: 
 My passion lies in actively contributing to the development of cutting-edge MRI methods, enabling precise visualization and quantification of neuroinflammation and neuronal injury. Additionally, I am focused on refining image processing pipelines to extract meaningful information from complex MRI datasets.
-  # Single-shell NODDI reconstruction: 
+<div class="row align-items-end">
+<div class="col-md-9 col-sm-12">
+ # Single-shell NODDI reconstruction: 
 We have recently developed 
 
 ## Investigating Neuroinflammation and Neurodegeneration:
