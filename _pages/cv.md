@@ -35,7 +35,7 @@ author_profile: true
 <p style="margin-left: 40px"><b>Lecturer</b>
 <br>Department of Physics
 <br>Jahangirnagar University, Bangladesh
-<br><i>November 2006 — April 2008</i></p>
+<br><i>October 2006 — April 2008</i></p>
 
 
 
