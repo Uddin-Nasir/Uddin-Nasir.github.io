@@ -32,6 +32,11 @@ author_profile: true
 <br>University of Manitoba, MB
 <br><i>January 2016 — December 2018</i></p>
 
+<p style="margin-left: 40px"><b>Lecturer</b>
+<br>Department of Physics
+<br>Jahangirnagar University, Bangladesh
+<br><i>November 2006 — April 2008</i></p>
+
 
 
 
