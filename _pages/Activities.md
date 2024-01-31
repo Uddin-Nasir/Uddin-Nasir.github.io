@@ -7,13 +7,9 @@ author_profile: true
 
 ## Professional Memberships 
 •	International Society for Magnetic Resonance in Medicine (ISMRM) (2011–present)
-
 •	Organization for Human Brain Mapping (OHBM) (2016-present)
-
 •	Society for Neuroscience (SfN) (2016-present)
-
 •	Canadian Associations for neuroscience (CAN) (2017- present)
-
 •	Canadian Association of Physicists (CAP) (2008-present)
 
 ## Service Activities 
