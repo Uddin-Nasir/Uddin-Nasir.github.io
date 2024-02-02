@@ -39,8 +39,8 @@ author_profile: true
 
 
 # Awards
+* NIH OAR Innovation Award (2023)
 
-•<br>NIH OAR Innovation Award (2023)</br>
 
 
 
