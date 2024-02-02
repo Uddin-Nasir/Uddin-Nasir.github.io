@@ -40,7 +40,7 @@ author_profile: true
 
 # Awards
 
-<p style="margin-left: 40px"><b>NIH OAR Innovation Award, 2023</b>
+•<br>NIH OAR Innovation Award (2023)</br>
 
 
 
