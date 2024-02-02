@@ -81,8 +81,15 @@ In conclusion, my passion for advancing MRI techniques and my dedication to unde
 <strong>Role:</strong> Principal Investigator           
 <strong>Total Award:</strong> $2,597,800            
 
+* <strong>07/2024-06/2029</strong>         
+<strong>Title:</strong> Tensor-valued diffusion encoding as a marker of neuronal injury and its associations with cognitive outcomes in individuals living with HIV.               
+<strong>Major Goals:</strong> This proposal aims to investigate neuroinflammation and axonal injury in cART-treated HIV-infected individuals using b-tensor encoding, exploring its sensitivity to subtle microstructural changes and their link to cognitive impairment. Advancing the quantification of inflammation and understanding axonal damage will offer crucial tools for assessing interventions in treating HIV-associated brain injury.             
+<strong>Source:</strong> National Institute of Health (NIH)        
+<strong>Role:</strong> Principal Investigator           
+<strong>Total Award:</strong> $3,769,809            
+
 * <strong>07/2024-06/2026</strong>             
-<strong>Title:</strong> Mapping changes in iron distribution and myelin integrity in multiple sclerosis          
+<strong>Title:</strong> Mapping changes in iron distribution and myelin integrity in multiple sclerosis.   
 <strong>Major Goals:</strong> This study will provide a better understanding of the potential role of iron concentration and distribution in mediating the pathogenesis of MS, especially concerning demyelination and axonal injury, as well as its impact on cognitive performance.            
 <strong>Source:</strong> National Institute of Health (NIH)            
 <strong>Role:</strong> Principal Investigator             
