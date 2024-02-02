@@ -31,31 +31,19 @@ In conclusion, my passion for advancing MRI techniques and my dedication to unde
 #  Research Grants:
 
 ## Active
-<strong>• 9/2023-8/2025</strong>
-
-<strong>Title:</strong> Automated machine learning-based brain artery segmentation, anatomical prior labeling, and feature extraction on MR Angiography (PI: Uddin)
-
-<strong>Major Goals:</strong> The goal of this proposal is to develop and validate an automated approach to segment and classify brain arteries and extract vascular features with high fidelity from low-resolution clinical MRA images utilizing a prospective machine learning framework with a small training set for clinical convenience. 
-
-<strong>Source:</strong> National Institute of Health (NIH)
-
-<strong>Role:</strong> Principal Investigator 
-
+<strong>• 9/2023-8/2025</strong> 
+<strong>Title:</strong> Automated machine learning-based brain artery segmentation, anatomical prior labeling, and feature extraction on MR Angiography (PI: Uddin) 
+<strong>Major Goals:</strong> The goal of this proposal is to develop and validate an automated approach to segment and classify brain arteries and extract vascular features with high fidelity from low-resolution clinical MRA images utilizing a prospective machine learning framework with a small training set for clinical convenience.     
+<strong>Source:</strong> National Institute of Health (NIH)  
+<strong>Role:</strong> Principal Investigator    
 <strong>Total Award:</strong> $154,000
 
-#
-
-<strong>•	7/2018-4/2024</strong>
-
-<strong>Title:</strong> Brain Structural and Functional Connectome in HIV-Associated Neuroinflammation (PI: Schifitto)
-
-<strong>Major Goals:</strong> The goal of this study is to assess the longitudinal changes in the trajectory of brain structural connectome and functional connectivity in HIV infected compared to HIV seronegative individuals and to assess the mediation effect of structural connectome, functional connectivity and cerebral cortical thickness on specific cognitive domains.
-
-<strong>Source:</strong> National Institute of Health (NIH)
-
-<strong>Role:</strong> Co-Investigator 
-
-<strong>Total Award:</strong> $3,439,828
+<strong>•	7/2018-4/2024</strong>   
+<strong>Title:</strong> Brain Structural and Functional Connectome in HIV-Associated Neuroinflammation (PI: Schifitto)  
+<strong>Major Goals:</strong> The goal of this study is to assess the longitudinal changes in the trajectory of brain structural connectome and functional connectivity in HIV infected compared to HIV seronegative individuals and to assess the mediation effect of structural connectome, functional connectivity and cerebral cortical thickness on specific cognitive domains.  
+<strong>Source:</strong> National Institute of Health (NIH)   
+<strong>Role:</strong> Co-Investigator    
+<strong>Total Award:</strong> $3,439,828   
 
 #
 
