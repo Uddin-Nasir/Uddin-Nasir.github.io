@@ -38,26 +38,13 @@ author_profile: true
 <br><i>October 2006 — April 2008</i></p>
 
 
-# Awards
-* NIH OAR Innovation Award (2023)
-
-
-
-
-
 #  Research Grants:
-
 ## Active
-<strong>• 9/2023-8/2025</strong>
-
+<strong>* 9/2023-8/2025</strong>
 <strong>Title:</strong> Automated machine learning-based brain artery segmentation, anatomical prior labeling, and feature extraction on MR Angiography (PI: Uddin)
-
 <strong>Major Goals:</strong> The goal of this proposal is to develop and validate an automated approach to segment and classify brain arteries and extract vascular features with high fidelity from low-resolution clinical MRA images utilizing a prospective machine learning framework with a small training set for clinical convenience. 
-
 <strong>Source:</strong> National Institute of Health (NIH)
-
 <strong>Role:</strong> Principal Investigator 
-
 <strong>Total Award:</strong> $154,000
 
 #
