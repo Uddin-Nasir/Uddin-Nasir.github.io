@@ -30,12 +30,12 @@ In conclusion, my passion for advancing MRI techniques and my dedication to unde
 
 #  Research Grants:
 
-## Active
-<strong>• 9/2023-8/2025</strong> 
-<strong>Title:</strong> Automated machine learning-based brain artery segmentation, anatomical prior labeling, and feature extraction on MR Angiography (PI: Uddin) 
-<strong>Major Goals:</strong> The goal of this proposal is to develop and validate an automated approach to segment and classify brain arteries and extract vascular features with high fidelity from low-resolution clinical MRA images utilizing a prospective machine learning framework with a small training set for clinical convenience.     
-<strong>Source:</strong> National Institute of Health (NIH)  
-<strong>Role:</strong> Principal Investigator    
+## Active         
+* <strong>9/2023-8/2025</strong>         
+<strong>Title:</strong> Automated Machine Learning-based Brain Artery Segmentation, Anatomical Prior Labeling, and Feature Extraction on MR Angiography (PI: Uddin)              
+<strong>Major Goals:</strong> The goal of this proposal is to develop and validate an automated approach to segment and classify brain arteries and extract vascular features with high fidelity from low-resolution clinical MRA images utilizing a prospective machine learning framework with a small training set for clinical convenience.            
+<strong>Source:</strong> National Institute of Health (NIH)         
+<strong>Role:</strong> Principal Investigator       
 <strong>Total Award:</strong> $154,000
 
 <strong>•	7/2018-4/2024</strong>   
