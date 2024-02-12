@@ -8,7 +8,6 @@ author_profile: true
 
  {% include base_path %}
 
-
 ## Education
 
 <p style="margin-left: 40px"><b>Ph.D., Biomedical Engineering</b>
