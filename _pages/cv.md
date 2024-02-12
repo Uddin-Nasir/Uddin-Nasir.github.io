@@ -58,7 +58,6 @@ author_profile: true
 *	Organization for Human Brain Mapping
 *	Canadian Medical and Biological Engineering Conference.
 
-
 ## Professional Memberships 
 *	International Society for Magnetic Resonance in Medicine (ISMRM) (2011–present)  
 *	Organization for Human Brain Mapping (OHBM) (2016-present)  
