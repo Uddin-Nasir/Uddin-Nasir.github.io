@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Positions"
-permalink: /Positions/
+permalink: /positions/
 author_profile: true
 ---
 
