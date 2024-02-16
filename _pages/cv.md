@@ -40,7 +40,7 @@ author_profile: true
 
 ### Editorial Roles:
 *	Academic Editor, Plos One (2022 – present)    
-*	Review Editor, and Guest Associate Editor, Frontiers in Neurology (2022 – present)   
+*	Guest Associate Editor, and Review Editor, Frontiers in Neurology (2022 – present)   
 *	Research Topic Editor, Frontiers in Neurology (2022 – present)  
 
 ### Research Grant Reviewer:
