@@ -17,19 +17,17 @@ My research interests lie at the fascinating intersection of MRI physics and neu
 
 1️⃣ Developing cutting-edge MRI methods and image processing pipelines to enhance brain imaging accuracy.
 
-2️⃣ Unraveling Neuroinflammation and Neurodegeneration via Diffusion MRI Methods, and T2-based myelin water imaging to improve diagnostic and therapeutic approaches.
+2️⃣ Unraveling neuroinflammation and neurodegeneration via diffusion MRI, and myelin water imaging and iron-sensitive MRI methods to improve diagnostic and therapeutic approaches.
 
-3️⃣ Investigating Iron-Sensitive Measures such as quantitative susceptibility mapping and relaxometry mappings to identify iron-sensitive measures that could serve as promising biomarkers for neurodegenerative processes in the brain.
+3️⃣ Probing vascular dysfunction through advanced MR imaging and angiography techniques.
 
-4️⃣ Probing Vascular Dysfunction through Advanced MRI Techniques such as perfusion MRI and resting-state fMRI-based cerebrovascular reactivity. Additionally, I am delving into vascular remodeling using time-of-flight MR Angiography, with the exciting aim of developing an automated AI-based approach for the segmentation and classification of brain arteries and extracting essential vascular features.
-
-5️⃣ Exploring the relationship between structural and functional MRI measures, blood markers, and cognitive performance in diverse populations, including healthy individuals, aging individuals, and those affected by neurological conditions such as Multiple Sclerosis, HIV, CSVD, Stroke, Parkinson's Disease, and Hypertension.
+4️⃣ Exploring the relationship between structural and functional MRI measures and investigating their clinical correlations in both healthy and diseased human brains. 
 
 In addition, I serve as an Academic Editor for PLOS One and hold esteemed roles as a Guest Associate Editor and Review Editor for Frontiers in Neurology.
 
 
 ## Keywords
-MRI, Brain, Iron, Myelin, Neuroinflammation, diffusion MRI, Free Water, Multiple Sclerosis, HIV, CSVD, Artificial intelligence.
+MRI, Brain, Iron, Myelin, Neuroinflammation, Diffusion MRI, Free Water, Multiple Sclerosis, HIV, CSVD, Artificial intelligence, Machine learning, Deeep learning.
 
 ## Contact
 Md Nasir Uddin, PhD    
