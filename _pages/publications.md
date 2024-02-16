@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 
-## Peer-reviewed journal articles
-
+# Peer-reviewed journal articles
 
 ## 2023 
 Faiyaz A, Doyley M, Schifitto G, <strong>Uddin MN*</strong>. <a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1168833/full" target="_blank">Artificial intelligence for diffusion MRI-based tissue microstructure estimation in the human brain: an overview. </a> <i>Frontiers in Neurology.</i>, 14(700): 1-9 (2023). *corresponding author <strong>IF 4.086</strong> 
@@ -214,7 +213,7 @@ Morrow MR and <strong>Uddin MN</strong>, Phase behavior of bicellar lipid mixtur
 
 <strong>Uddin MN</strong>, Morrow MR, Effect of pressure on chain order and orientation in DMPC/DHPC bicelles, Canadian Association of Physicists Congress, June 7-10, Moncton, NB, 2009
 
-# Manuscipts under review
+## Manuscipts under review
 Singh MV, <strong>Uddin MN</strong>, Covacevich Vidalle M, Sutton KR, Boodoo ZD, Peterson A, ... & Schifitto G Role of non-classical monocytes in HIV-associated vascular cognitive impairment. Journal of Infectious Diseases, 2023.
 
 Figley TD, <strong>Uddin MN</strong>, Wong K, Pirzada S, Kornelsen J, Puig J, Helmick CA, O’Grady CB, Mazerolle EL, Patel R, Bernstein CN, Fisk JD, Marrie RA, and Figley CR for the CCOMS Study Group, White matter damage in multiple sclerosis disproportionately targets intrinsically connected brain networks. Human Brain Mapping, 2023.
