@@ -35,7 +35,6 @@ author_profile: true
 <br>Jahangirnagar University, Bangladesh
 <br><i>October 2006 — April 2008</i></p>
 
-
 ## Editorial and Review Contributions: 
 
 ### Editorial Roles:
