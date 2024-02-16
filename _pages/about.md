@@ -25,7 +25,6 @@ My research interests lie at the fascinating intersection of MRI physics and neu
 
 In addition, I serve as an Academic Editor for PLOS One and hold esteemed roles as a Guest Associate Editor and Review Editor for Frontiers in Neurology.
 
-
 ## Keywords
 MRI, Brain, Iron, Myelin, Neuroinflammation, Diffusion MRI, Free Water, Multiple Sclerosis, HIV, CSVD, Artificial Intelligence, Machine/Deep Learning.
 
