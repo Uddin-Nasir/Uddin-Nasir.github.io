@@ -27,7 +27,7 @@ In addition, I serve as an Academic Editor for PLOS One and hold esteemed roles 
 
 
 ## Keywords
-MRI, Brain, Iron, Myelin, Neuroinflammation, Diffusion MRI, Free Water, Multiple Sclerosis, HIV, CSVD, Artificial intelligence, Machine/Deep learning.
+MRI, Brain, Iron, Myelin, Neuroinflammation, Diffusion MRI, Free Water, Multiple Sclerosis, HIV, CSVD, Artificial Intelligence, Machine/Deep Learning.
 
 ## Contact
 Md Nasir Uddin, PhD    
