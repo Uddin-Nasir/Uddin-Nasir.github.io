@@ -101,7 +101,6 @@ Rahman MM, Sheak MS, Pervin S, <strong>Uddin MN</strong>, Ahmed F, Hossain MA, R
 
 Rahman MO, <strong>Uddin MN</strong>, Rahman MM, Muniruzzaman M, High precision (+, -, -, +) monolithic monochromators with synchrotron radiation,’ <i>Bangladesh journal of physics</i>, vol. 2 (1), p. 73-79, (2006).
 
-
 ## Peer Reviewed Conference Proceedings
 ## 2023
 <strong>Uddin MN</strong>, Tivarus ME, Adams H, Singh MV, Little E, Wu T, Lande M, Schifitto G, Surface based brain morphometry in adolescents with cardiovascular risk factors, Organization for Human Brain Mapping (OHBM) (2023)
