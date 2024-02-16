@@ -10,8 +10,6 @@ author_profile: true
 
 
 ## 2023 
-
-
 Faiyaz A, Doyley M, Schifitto G, <strong>Uddin MN*</strong>. <a href="https://www.frontiersin.org/articles/10.3389/fneur.2023.1168833/full" target="_blank">Artificial intelligence for diffusion MRI-based tissue microstructure estimation in the human brain: an overview. </a> <i>Frontiers in Neurology.</i>, 14(700): 1-9 (2023). *corresponding author <strong>IF 4.086</strong> 
 
 
@@ -102,6 +100,16 @@ Rahman MM, Sheak MS, Pervin S, <strong>Uddin MN</strong>, Ahmed F, Hossain MA, R
 Rahman MO, <strong>Uddin MN</strong>, Rahman MM, Muniruzzaman M, High precision (+, -, -, +) monolithic monochromators with synchrotron radiation,’ <i>Bangladesh journal of physics</i>, vol. 2 (1), p. 73-79, (2006).
 
 ## Peer Reviewed Conference Proceedings
+
+## 2024
+<strong>Uddin MN</strong>, Faiyaz A, Figley CR, Qiu X, Weber M, Schifitto G, Network-based white matter microstructure measures using b-tensor encoding and cognition in HIV, Organization for Human Brain Mapping (OHBM) (2024)
+
+Faiyaz A, Weber M, Kabir IE, Doyley M, <strong>Uddin MN</strong>, Giovanni Schifitto, MRE-tract integrity (MTI) analysis on HIV-population using functionally defined atlases, Proc. Intl. Soc. Mag. Reson. Med. 32 (2024)
+
+Figley TD, <strong>Uddin MN</strong>, Wong K, Pirzada S, Kornelsen J, Carter S, Helmick CA, O'Grady CB, Mazerolle EL, Patel R, Bernstein CN, Fisk JD, Marrie RA, Figley CR. Multiple sclerosis white matter damage disproportionately targets intrinsic brain networks. ACTRIMS (2024).
+
+Wong K, <strong>Uddin MN</strong>, Figley TD, Kornelsen J, Helmick CA, O'Grady CB, Mazerolle EL, Patel R, Bernstein CN, Fisk JD, Marrie RA, Figley CR, Quantitative magnetic resonance imaging (qMRI) signal gradients between multiple sclerosis white matter lesions and perilesional normal appearing white matter, ACTRIMS (2024).
+
 ## 2023
 <strong>Uddin MN</strong>, Tivarus ME, Adams H, Singh MV, Little E, Wu T, Lande M, Schifitto G, Surface based brain morphometry in adolescents with cardiovascular risk factors, Organization for Human Brain Mapping (OHBM) (2023)
 
@@ -205,3 +213,16 @@ Pirzada S, <strong>Uddin MN</strong>, Figley TD, Figley CR for the C-COMS Study 
 Morrow MR and <strong>Uddin MN</strong>, Phase behavior of bicellar lipid mixtures using deuterium NMR, Canadian Association of Physicists Congress, June, Toronto, ON, 2010
 
 <strong>Uddin MN</strong>, Morrow MR, Effect of pressure on chain order and orientation in DMPC/DHPC bicelles, Canadian Association of Physicists Congress, June 7-10, Moncton, NB, 2009
+
+# Manuscipts under review
+Singh MV, <strong>Uddin MN</strong>, Covacevich Vidalle M, Sutton KR, Boodoo ZD, Peterson A, ... & Schifitto G Role of non-classical monocytes in HIV-associated vascular cognitive impairment. Journal of Infectious Diseases, 2023.
+
+Figley TD, <strong>Uddin MN</strong>, Wong K, Pirzada S, Kornelsen J, Puig J, Helmick CA, O’Grady CB, Mazerolle EL, Patel R, Bernstein CN, Fisk JD, Marrie RA, and Figley CR for the CCOMS Study Group, White matter damage in multiple sclerosis disproportionately targets intrinsically connected brain networks. Human Brain Mapping, 2023.
+
+Finkelstein A, Tivarus M, <strong>Uddin MN</strong>, Venkataraman A, Zhong J, Usuki K, Lin E, Culakova E, Schifitto G, Milano M, Janelsins M, Hardy S, Structural and Functional Changes in Patients with Lower-Grade Gliomas Receiving Partial Brain Radiotherapy, Radiotherapy and Oncology 2023.
+
+Carter S, Figley TR, <strong>Uddin MN</strong>, Wong K, Patel R, Fisk JD, Marrie RA, Pirzada S, Kornelsen J. Altered Functional Connectivity in Cerebellar, Language, Visual Areas in Individuals with Multiple Sclerosis, 2024.
+
+Mišić M, Lee N, Zidda F, Sohn K, Usai K, Löffler M, <strong>Uddin MN</strong>, Farooqi A, Schifitto G, Zhang Z, and Nees F. Brain white matter pathways of resilience to chronic back pain: a multisite validation. bioRxiv, pp.2024-01, 2024.
+
+Parker KJ, Kabir IE, Doyley MM, Faiyaz A, <strong>Uddin MN</strong>, Flores G, Schifitto G. Brain elastography in aging relates to fluid/solid trendlines, Physics in Medicine and Biology, 2024.
