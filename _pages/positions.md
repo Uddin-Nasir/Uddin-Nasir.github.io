@@ -14,7 +14,7 @@ We are hiring a
 
 ### Graduate Students
 We are looking for 1-2 graduate students in MRI methods and their applications. Potential projects include:
-#### Development of highly accelerated CEST MRI 
+#### Development of fast CEST MRI 
 In this project, we will develop a method with compress sensing (CS) for the readout part of clinical chemical exchange saturation (CEST) MRI and prior-based deep learning with a minimal training dataset to significantly accelerate CEST acquisition, enhancing signal-to-noise ratio (SNR), and reconstructing CEST exchange parameter maps with high fidelity. We will then apply the technique to co-occurance of liver disease and HIV infection. 
 
 
