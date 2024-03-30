@@ -28,7 +28,14 @@ In conclusion, my passion for advancing MRI techniques and my dedication to unde
 
 #  Research Grants:
 
-## Active         
+## Active   
+* <strong>04/2024-03/2029</strong>         
+<strong>Title:</strong> HIV and nonalcoholic fatty liver disease (NAFLD) associated neuroinflammation and metabolic dysfunction measured by multimodal magnetic resonance imaging       
+<strong>Major Goals:</strong> This study aims to develop a AI-based molecular MRI technique and to investigate the co-occurrence of NAFLD and HIV infection and their potential impact on brain dysfunction and cognitive impairment.         
+<strong>Source:</strong> National Institute of Health (NIH)        
+<strong>Role:</strong> Principal Investigator           
+<strong>Total Award:</strong> $2,597,800 (Director's Pioneer Award DP1)
+
 * <strong>9/2023-8/2025</strong>         
 <strong>Title:</strong> Automated Machine Learning-based Brain Artery Segmentation, Anatomical Prior Labeling, and Feature Extraction on MR Angiography (PI: Uddin)              
 <strong>Major Goals:</strong> The goal of this proposal is to develop and validate an automated approach to segment and classify brain arteries and extract vascular features with high fidelity from low-resolution clinical MRA images utilizing a prospective machine learning framework with a small training set for clinical convenience.            
@@ -72,13 +79,7 @@ In conclusion, my passion for advancing MRI techniques and my dedication to unde
 <strong>Total Award:</strong> $2,431,293             
 
 ## Pending
-* <strong>04/2024-03/2029</strong>         
-<strong>Title:</strong> HIV and nonalcoholic fatty liver disease (NAFLD) associated neuroinflammation and metabolic dysfunction measured by multimodal magnetic resonance imaging       
-<strong>Major Goals:</strong> This study aims to develop a AI-based molecular MRI technique and to investigate the co-occurrence of NAFLD and HIV infection and their potential impact on brain dysfunction and cognitive impairment.         
-<strong>Source:</strong> National Institute of Health (NIH)        
-<strong>Role:</strong> Principal Investigator           
-<strong>Total Award:</strong> $2,597,800            
-
+         
 * <strong>07/2024-06/2029</strong>         
 <strong>Title:</strong> Tensor-valued diffusion encoding as a marker of neuronal injury and its associations with cognitive outcomes in individuals living with HIV.               
 <strong>Major Goals:</strong> This proposal aims to investigate neuroinflammation and axonal injury in cART-treated HIV-infected individuals using b-tensor encoding, exploring its sensitivity to subtle microstructural changes and their link to cognitive impairment. Advancing the quantification of inflammation and understanding axonal damage will offer crucial tools for assessing interventions in treating HIV-associated brain injury.             
